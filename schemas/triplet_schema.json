@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Feeding Intolerance Knowledge Triplet Schema",
+  "description": "喂养不耐受（FI）症状知识库知识三元组JSON Schema",
+  "type": "object",
+  "required": ["head", "relation", "tail", "source", "evidence", "domain", "confidence", "update_date"],
+  "properties": {
+    "head": {
+      "type": "string",
+      "description": "实体/概念名称（主语）",
+      "minLength": 1,
+      "examples": ["喂养不耐受", "GRV", "瓜氨酸", "红霉素"]
+    },
+    "relation": {
+      "type": "string",
+      "description": "关系谓词（动词短语）",
+      "minLength": 1,
+      "examples": ["诊断标准为", "FI关联为", "指南推荐为", "一线治疗为"]
+    },
+    "tail": {
+      "type": "string",
+      "description": "实体/值/描述（宾语）",
+      "minLength": 1,
+      "examples": ["胃肠道功能紊乱导致肠内营养无法满足机体需求", "危重患者24-48h内启动EN"]
+    },
+    "source": {
+      "type": "string",
+      "description": "原始出处（指南版本/PMID/试验编号）",
+      "minLength": 1,
+      "examples": ["ESPEN 2023 EN指南", "ASPEN-SCCM 2022", "NCT02306746"]
+    },
+    "evidence": {
+      "type": "string",
+      "description": "证据等级",
+      "enum": ["I级", "II级", "III级", "I级专家共识", "专家共识"],
+      "examples": ["I级", "I级专家共识", "专家共识"]
+    },
+    "domain": {
+      "type": "string",
+      "description": "所属知识域",
+      "examples": [
+        "定义与诊断标准", "危险因素", "生物标志物", "营养管理",
+        "临床结局", "特殊人群", "指南推荐", "监测与评估",
+        "并发症处理", "新技术", "预后模型", "质量改进",
+        "肿瘤术后管理", "康复与长期管理", "证据体系", "临床治疗"
+      ]
+    },
+    "confidence": {
+      "type": "number",
+      "description": "置信度（0.0-1.0）",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "examples": [0.95, 0.85, 0.75]
+    },
+    "conditions": {
+      "type": ["string", "null"],
+      "description": "适用条件（可选）",
+      "examples": ["仅限ICU患者", "仅限上消化道术后", "脓毒症患者慎用"]
+    },
+    "pmid": {
+      "type": ["string", "null"],
+      "description": "PubMed ID（可选）",
+      "pattern": "^[0-9]{7,8}$",
+      "examples": ["33264544", "26863253"]
+    },
+    "update_date": {
+      "type": "string",
+      "description": "更新日期（YYYY-MM-DD）",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "examples": ["2026-05-08"]
+    }
+  }
+}

@@ -1,0 +1,2963 @@
+[
+  {
+    "head": "喂养不耐受综合征",
+    "relation": "ESPEN标准定义为",
+    "tail": "胃肠道功能紊乱导致肠内营养无法满足机体需求的状态",
+    "source": "ESPEN 2012重症营养指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "诊断标准为",
+    "tail": "出现胃肠道症状（腹胀、腹泻、呕吐、反流等）或GRV≥500mL/24h且影响喂养进程",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "操作定义（Reintam 2009）为",
+    "tail": "腹胀≥2分（CT评分）或呕吐/反流≥1次/d或GRV≥200mL且≥3次/d或腹泻≥3次/d或肠麻痹≥1次/d",
+    "source": "Reintam A et al. Clin Nutr 2009",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GRV阈值",
+    "relation": "传统阈值争议为",
+    "tail": "GRV≥200mL被广泛用作FI预警指标，但近年指南认为不应单独依赖GRV决策",
+    "source": "ESPEN 2023 EN指南 / ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GRV",
+    "relation": "新版指南推荐",
+    "tail": "结合临床症状综合判断，不应仅因GRV升高而停止肠内营养",
+    "source": "ESPEN 2023 / ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "分类为",
+    "tail": "胃肠不耐受（GI型）、全身不耐受（Sys型）、混合型（Mix型）三类",
+    "source": "Reintam et al. Intens Care Med 2008",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃残余量",
+    "relation": "FI诊断界值为",
+    "tail": "单次GRV≥500mL或24h累计GRV≥1500mL且合并胃肠道症状",
+    "source": "ESPEN 2012 / 重症营养共识",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠鸣音减弱",
+    "relation": "FI评估指标为",
+    "tail": "肠鸣音<3次/分钟或消失超过24小时提示肠麻痹",
+    "source": "中国肠内营养安全管控专家共识 2022",
+    "evidence": "专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹内压升高",
+    "relation": "FI风险阈值为",
+    "tail": "IAP≥12mmHg（Grade I）或IAP≥15mmHg（Grade II）增加FI发生率",
+    "source": "WSACS 2013 IAP指南",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹腔间隔室综合征",
+    "relation": "与FI关系为",
+    "tail": "IAP>20mmHg时EN耐受性显著下降，需考虑减量或暂停",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "代谢指标定义",
+    "tail": "EN实施72h内热量摄入<60%目标量且无法改善",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ICU相关性腹泻",
+    "relation": "FI相关定义为",
+    "tail": "大便稀薄≥3次/d或大便量≥200-250g/d，持续≥24h",
+    "source": "ASPEN 2022营养指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "早期预警指标为",
+    "tail": "GRV进行性增加（从<150mL升至>300mL）",
+    "source": "SCCM 2022指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部X线检查",
+    "relation": "FI排除诊断为",
+    "tail": "排除机械性肠梗阻（肠管扩张>3cm伴气液平面）",
+    "source": "中国外科营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "临床评分工具为",
+    "tail": "FI Score（Reintam评分，0-8分），分数越高FI越严重",
+    "source": "Reintam et al. Clin Nutr 2009",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部手术",
+    "relation": "FI主要危险因素为",
+    "tail": "腹腔内脏器手术导致肠蠕动减慢，发生率40-60%",
+    "source": "B档次：ESPEN围手术期指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "上消化道手术",
+    "relation": "FI风险人群为",
+    "tail": "食管癌、胃癌术后患者，FI发生率高达60-80%",
+    "source": "ERAS Society 2023食管癌指南",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胰十二指肠切除术",
+    "relation": "术后FI发生率为",
+    "tail": "约50%，与胃肠道重建方式（Billroth II vs Roux-en-Y）相关",
+    "source": "ERAS Society 2022肝胆胰外科指南",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ICU患者",
+    "relation": "FI危险因素为",
+    "tail": "机械通气（OR 2.3）、血管活性药物使用（OR 3.1）、俯卧位通气",
+    "source": "Reintam et al. Intens Care Med 2008",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "血管活性药物",
+    "relation": "FI关联为",
+    "tail": "去甲肾上腺素>0.1μg/kg/min显著增加FI风险（OR 3.1）",
+    "source": "Reintam et al. Clin Nutr 2012",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "镇静镇痛",
+    "relation": "FI风险因素为",
+    "tail": "阿片类药物通过μ受体抑制肠蠕动，是ICU-FI的重要诱因",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "低白蛋白血症",
+    "relation": "FI预测因素为",
+    "tail": "血清白蛋白<25g/L提示肠黏膜水肿，影响EN吸收",
+    "source": "Kondrup J et al. ESPEN指南 2003",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "高龄",
+    "relation": "FI风险因素为",
+    "tail": "年龄>70岁患者FI风险增加1.5倍，与消化道动力下降相关",
+    "source": "Berger et al. Age Ageing 2014",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "脓毒症",
+    "relation": "FI触发因素为",
+    "tail": "全身炎症反应导致肠黏膜屏障受损和运动功能障碍",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹腔感染",
+    "relation": "FI致病因素为",
+    "tail": "腹膜炎、腹部脓肿导致肠麻痹和EN耐受性下降",
+    "source": "SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "机械通气",
+    "relation": "FI风险因素为",
+    "tail": "正压通气增加胃食管反流和GRV，机械通气>48h患者FI风险显著升高",
+    "source": "Mentec et al. Intens Care Med 2001",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "俯卧位通气",
+    "relation": "FI关联为",
+    "tail": "俯卧位通气患者GRV显著增加，需密切监测",
+    "source": "Girard et al. NCT NCT02106929",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "电解质紊乱",
+    "relation": "FI诱因为",
+    "tail": "低钾血症（K+<3.5mmol/L）、低镁血症（Mg2+<0.7mmol/L）影响肠道平滑肌功能",
+    "source": "中国肠内营养安全管控共识 2022",
+    "evidence": "专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "全肠外营养",
+    "relation": "肠道适应不良风险",
+    "tail": "长期TPN（>2周）后恢复EN可出现FI，与肠黏膜萎缩相关",
+    "source": "ESPEN 2023 PN指南",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术前营养不良",
+    "relation": "术后FI风险因素为",
+    "tail": "GLIM诊断的严重营养不良患者术后EN耐受性显著下降",
+    "source": "GLIM共识 2018 / ERAS 2023",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "急诊手术",
+    "relation": "术后FI风险因素为",
+    "tail": "急诊手术患者术后FI发生率高于择期手术（OR 1.8）",
+    "source": "Vesterby et al. Ann Surg 2017",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "手术时长",
+    "relation": "FI风险关联为",
+    "tail": "手术>3小时患者术后EN耐受性下降，与麻醉和炎症反应相关",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "吻合口漏",
+    "relation": "FI诱因为",
+    "tail": "术后吻合口漏导致腹腔感染和肠功能障碍",
+    "source": "ERAS 2023结直肠外科指南",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胰腺术后",
+    "relation": "FI相关因素为",
+    "tail": "胰瘘（POPF）>B级显著延长肠道功能恢复时间",
+    "source": "ERAS Society 2022肝胆胰指南",
+    "evidence": "II级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "放疗",
+    "relation": "FI致病因素为",
+    "tail": "腹部/盆腔放疗导致肠黏膜损伤和放射性肠炎，增加FI风险",
+    "source": "ASTRO/ESTRO放疗指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "化疗",
+    "relation": "FI相关为",
+    "tail": "化疗相关恶心呕吐（CINV）及黏膜炎可加重FI",
+    "source": "ASPEN/ONS 2022",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "糖尿病",
+    "relation": "FI风险因素为",
+    "tail": "糖尿病性胃轻瘫导致胃排空延迟，GRV升高",
+    "source": "中国糖尿病营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "口服营养补充剂",
+    "relation": "不耐受原因为",
+    "tail": "乳糖不耐受（发生率30-50%）、渗透压过高（>600mOsm/L）",
+    "source": "ESPEN 2019 ONS指南",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "I-FABP",
+    "relation": "肠上皮细胞损伤标志物为",
+    "tail": "肠型脂肪酸结合蛋白（I-FABP），血清浓度升高提示肠黏膜完整性受损",
+    "source": "Evenn et al. Intens Care Med 2007",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "L-FABP",
+    "relation": "肠屏障损伤标志物为",
+    "tail": "肝型脂肪酸结合蛋白（L-FABP），血浆L-FABP>50ng/mL预测FI",
+    "source": "Derikx et al. Ann Surg 2009",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "瓜氨酸",
+    "relation": "肠功能评估指标为",
+    "tail": "血浆瓜氨酸（Cit）浓度<13μmol/L提示肠上皮细胞功能不良",
+    "source": "Crenn et al. Am J Clin Nutr 2003",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "瓜氨酸",
+    "relation": "FI预测能力为",
+    "tail": "危重患者第3天Cit<10μmol/L预测后续EN不耐受（敏感性74%，特异性72%）",
+    "source": "Piton et al. Intens Care Med 2010",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "D-乳酸",
+    "relation": "肠道菌群紊乱标志物为",
+    "tail": "血浆D-乳酸升高提示肠屏障功能障碍和细菌移位",
+    "source": "Sun et al. Clin Chim Acta 2014",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "二胺氧化酶",
+    "relation": "肠黏膜损伤标志物为",
+    "tail": "DAO活性>10U/L提示肠上皮细胞损伤，与FI严重程度相关",
+    "source": "Muccilli et al. Shock 2014",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "zonulin",
+    "relation": "肠屏障功能指标为",
+    "tail": "血清zonulin升高提示肠上皮紧密连接通透性增加，与FI相关",
+    "source": "Fasano et al. Nat Med 2000",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "CRP",
+    "relation": "FI伴随指标为",
+    "tail": "CRP>150mg/L持续>48h提示全身炎症反应，影响EN耐受性",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "乳酸",
+    "relation": "肠灌注评估指标为",
+    "tail": "血乳酸>2mmol/L提示肠黏膜低灌注，与FI发生相关",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃肠道CLDN18.2",
+    "relation": "FI研究热点为",
+    "tail": "CLDN18.2表达缺失可能与胃癌术后FI相关",
+    "source": "研究文献（临床前）",
+    "evidence": "专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "粪便钙卫蛋白",
+    "relation": "肠道炎症标志物为",
+    "tail": "粪便钙卫蛋白>200μg/g提示肠道炎症，与FI相关",
+    "source": "Tibble et al. BMJ 2000",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "尿乳果糖/甘露醇比值",
+    "relation": "肠屏障通透性指标为",
+    "tail": "L/M比值>0.09提示肠屏障通透性增加，与FI相关",
+    "source": "Wellesley et al. J Parent Ent Nutr 2018",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GLP-2",
+    "relation": "肠黏膜生长指标为",
+    "tail": "血清GLP-2降低与危重患者FI相关，GLP-2促进肠上皮修复",
+    "source": "Jeppesen et al. Am J Physiol 2001",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "IL-6",
+    "relation": "FI炎症指标为",
+    "tail": "IL-6>100pg/mL提示重度炎症，与EN耐受性下降相关",
+    "source": "Berger et al. Intens Care Med 2017",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "降钙素原",
+    "relation": "感染与FI关联为",
+    "tail": "PCT>10ng/mL提示感染加重，与FI风险增加相关",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "白蛋白",
+    "relation": "营养状态指标为",
+    "tail": "血清白蛋白<25g/L是FI的独立预测因素",
+    "source": "Kondrup et al. ESPEN 2003",
+    "evidence": "I级专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "前白蛋白",
+    "relation": "营养评估指标为",
+    "tail": "前白蛋白<150mg/L提示蛋白质储备不足，影响EN耐受",
+    "source": "中国外科营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "粪便短链脂肪酸",
+    "relation": "肠道微生态指标为",
+    "tail": "乙酸<5μmol/g和丙酸<2μmol/g提示肠道菌群失调，与FI相关",
+    "source": "Baxter et al. J Parent Ent Nutr 2019",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN启动时机",
+    "relation": "指南推荐为",
+    "tail": "血流动力学稳定的危重患者应在24-48h内启动EN",
+    "source": "ASPEN-SCCM 2022 / ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN首日剂量",
+    "relation": "指南推荐为",
+    "tail": "危重患者EN首日目标热量20-30kcal/kg/d，起始速度20-30mL/h",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN启动原则",
+    "relation": "FI存在时",
+    "tail": "不因GRV低-中度升高而停止EN，需结合腹部体征综合决策",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "促胃动力药",
+    "relation": "FI管理一线用药为",
+    "tail": "红霉素（250mg q6h iv或po，首选）或甲氧氯普胺（10mg q8h iv）",
+    "source": "ESPEN 2023 / ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "红霉素",
+    "relation": "FI治疗证据为",
+    "tail": "红霉素是促胃动力最有效的药物，但连续使用不超过5-7天（ tachyphylaxis）",
+    "source": "Lewis et al. Intens Care Med 1996",
+    "evidence": "I级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "甲氧氯普胺",
+    "relation": "FI治疗推荐为",
+    "tail": "10mg iv q8h，可改善胃排空，适用于轻-中度FI",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃复安",
+    "relation": "锥体外系风险提示",
+    "tail": "连续使用>5天或剂量>30mg/d时锥体外系反应风险增加",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "西甲硅油",
+    "relation": "FI腹胀对症为",
+    "tail": "40-80mg po q6-8h，可减少肠道气泡，改善腹胀症状",
+    "source": "中国肠内营养共识 2022",
+    "evidence": "专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN制剂渗透压",
+    "relation": "FI预防相关为",
+    "tail": "高渗制剂（>600mOsm/L）增加FI风险，初始应选等渗制剂",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "整蛋白配方",
+    "relation": "FI初始选择为",
+    "tail": "适用于胃肠道功能基本正常的患者，是FI初始管理的首选",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "短肽配方",
+    "relation": "FI时选择为",
+    "tail": "适用于中度肠道功能障碍患者（吸收面积减少、酶活性下降）",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "氨基酸配方",
+    "relation": "FI重症选择为",
+    "tail": "适用于重症肠功能障碍患者，氮源以氨基酸形式提供",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN不耐受",
+    "relation": "减量策略为",
+    "tail": "减量至目标速率的50%，2-4h后重新评估，不应直接停用",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "幽门后喂养",
+    "relation": "FI替代方案为",
+    "tail": "胃喂养不耐受时可经鼻空肠管或空肠造口行幽门后喂养",
+    "source": "ASPEN-SCCM 2022 / ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "空肠造口",
+    "relation": "上消化道术后FI管理为",
+    "tail": "术中同期行空肠造口置管，术后早期行幽门后EN",
+    "source": "中国外科营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "TPN补充",
+    "relation": "EN不足时为",
+    "tail": "EN<60%目标>72h或EN禁忌时启动补充性PN（SPN）",
+    "source": "ESPEN 2023 PN指南 / ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "SPN启动时机",
+    "relation": "指南推荐为",
+    "tail": "EN不足>7天且营养不良高风险患者应启动补充性PN",
+    "source": "ESPEN 2023 PN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "滋养型喂养",
+    "relation": "FI预防策略为",
+    "tail": "危重患者早期低速率EN（10-20mL/h）可促进肠道适应，减少FI",
+    "source": "Taylor et al. NEJM 1999",
+    "evidence": "I级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN喂养速率递增",
+    "relation": "指南推荐为",
+    "tail": "每24h递增20-30mL/h直至目标速率，FI时暂停递增",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "卧位管理",
+    "relation": "FI辅助措施为",
+    "tail": "EN期间床头抬高30-45°，减少反流和误吸风险",
+    "source": "ASPEN-SCCM 2022 / ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部理疗",
+    "relation": "FI辅助治疗为",
+    "tail": "腹部按摩（顺时针，10min q4-6h）和热敷可促进肠蠕动",
+    "source": "中国肠内营养安全管控共识 2022",
+    "evidence": "专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "益生菌",
+    "relation": "FI辅助干预为",
+    "tail": "特定益生菌（乳杆菌属、双歧杆菌属）可改善肠道菌群失衡",
+    "source": "Morrow et al. NCT NCT00233233",
+    "evidence": "II级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "膳食纤维",
+    "relation": "EN中添加为",
+    "tail": "可溶性膳食纤维（如果胶、车前子）可改善腹泻型FI",
+    "source": "Rushdi et al. Intens Care Med 2004",
+    "evidence": "II级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "膳食纤维",
+    "relation": "FI禁忌为",
+    "tail": "重度FI伴肠麻痹或缺血性肠病时禁用膳食纤维（可发酵产气加重腹胀）",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN泵使用",
+    "relation": "FI预防措施为",
+    "tail": "使用喂养泵持续输注优于重力滴注，可减少GRV和FI",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN中断最小化",
+    "relation": "FI管理策略为",
+    "tail": "减少不必要的EN中断（检查/操作/体位变换），累计停饲时间<6h/d",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "电解质纠正",
+    "relation": "FI诱因纠正为",
+    "tail": "积极纠正低钾血症、低镁血症、低磷血症以改善肠动力",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "液体管理",
+    "relation": "FI相关为",
+    "tail": "限制性液体策略可减少肠黏膜水肿，改善EN耐受性",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "不良临床结局关联为",
+    "tail": "FI患者ICU住院时长增加（+3-5天），死亡率增加（OR 1.8-2.5）",
+    "source": "Reintam et al. Intens Care Med 2008",
+    "evidence": "II级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "死亡率关联为",
+    "tail": "FI是ICU患者死亡的独立危险因素（HR 1.4，95%CI 1.2-1.6）",
+    "source": "Reintam et al. Intens Care Med 2012",
+    "evidence": "II级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "感染风险关联为",
+    "tail": "FI患者医院获得性感染率增加（RR 1.7），与肠屏障功能障碍相关",
+    "source": "Faisy et al. Intens Care Med 2009",
+    "evidence": "II级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "住院费用影响为",
+    "tail": "FI患者ICU费用增加约15-25%，与营养支持延迟相关",
+    "source": "Heyland et al. Intens Care Med 2011",
+    "evidence": "II级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "谵妄风险关联为",
+    "tail": "EN摄入不足（<60%目标>3天）与ICU谵妄风险增加相关",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "肌肉减少症关联为",
+    "tail": "EN不足导致肌肉丢失，延长机械通气时间和康复周期",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN达标率",
+    "relation": "预后指标为",
+    "tail": "EN达标率>80%的患者90天死亡率显著低于EN不足者",
+    "source": "Arabi et al. Intens Care Med 2011",
+    "evidence": "I级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "吻合口愈合影响为",
+    "tail": "术后EN不足影响吻合口血供和愈合，FI延长至术后5天以上风险增加",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "器官功能障碍关联为",
+    "tail": "FI与序贯器官功能评估（SOFA）评分升高相关（r=0.38）",
+    "source": "Reintam et al. Clin Nutr 2012",
+    "evidence": "II级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "机械通气撤机影响为",
+    "tail": "FI导致营养不足延长机械通气时间，平均延长2-3天",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "迟发FI",
+    "relation": "预后意义为",
+    "tail": "入住ICU>5天后发生的FI提示预后更差（死亡率增加2倍）",
+    "source": "Reintam et al. Clin Nutr 2009",
+    "evidence": "II级",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI",
+    "relation": "生活质量影响为",
+    "tail": "上消化道术后FI影响患者术后营养状况和生活质量评分",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "临床结局",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ICU患者",
+    "relation": "FI发生率为",
+    "tail": "入住ICU>48h患者FI发生率约30-50%，是ICU营养治疗的主要挑战",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "机械通气患者",
+    "relation": "FI发生特点为",
+    "tail": "机械通气患者FI发生率高达50-65%，常表现为GRV升高",
+    "source": "Mentec et al. Intens Care Med 2001",
+    "evidence": "II级",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "脓毒性休克患者",
+    "relation": "EN启动时机为",
+    "tail": "血流动力学稳定（去甲肾上腺素<0.3μg/kg/min）后启动EN",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部创伤",
+    "relation": "FI管理特点为",
+    "tail": "腹部创伤术后FI发生率高（60-70%），需个体化EN方案",
+    "source": "ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "食管癌术后",
+    "relation": "FI特点为",
+    "tail": "食管癌术后EN耐受窗口期为术后6-24h，幽门后喂养可改善EN耐受",
+    "source": "ERAS 2023食管癌指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "全胃切除",
+    "relation": "FI管理为",
+    "tail": "Billroth II重建术后患者需选择短肽配方并控制输注速度",
+    "source": "ERAS 2023胃癌指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胰十二指肠切除",
+    "relation": "FI特点为",
+    "tail": "Whipple术后患者小肠功能保留较好，术后24-48h可启动EN",
+    "source": "ERAS Society 2022肝胆胰指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "结直肠手术",
+    "relation": "FI特点为",
+    "tail": "结直肠术后FI发生率相对较低（约20-30%），ERAS实施良好者更低",
+    "source": "ERAS Society 2023结直肠指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ICU儿童",
+    "relation": "FI特点为",
+    "tail": "PICUs中FI发生率约25%，早产儿和新生儿更高（>50%）",
+    "source": "ASPEN Pediatric 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "老年患者",
+    "relation": "FI特点为",
+    "tail": "老年（>65岁）FI发生率增加，与消化道动力减慢和合并症相关",
+    "source": "ESPEN老年营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肝衰竭患者",
+    "relation": "FI管理为",
+    "tail": "支链氨基酸配方可改善肝性脑病合并FI患者的营养状况",
+    "source": "ESPEN 2023肝病营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肾衰竭患者",
+    "relation": "FI管理为",
+    "tail": "需限制液体和电解质的肾衰竭患者应选择高能量密度配方",
+    "source": "KDIGO 2023营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "COVID-19重症",
+    "relation": "FI特点为",
+    "tail": "COVID-19 ARDS患者FI发生率高达50%，与俯卧位和ECMO相关",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ECMO患者",
+    "relation": "FI特点为",
+    "tail": "VA-ECMO患者FI发生率高达60%，EN达标率仅30-40%",
+    "source": "Roumelioti et al. NCT NCT03411155",
+    "evidence": "II级",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部大手术",
+    "relation": "ERAS方案中",
+    "tail": "术后24h内启动EN作为ERAS标准方案，减少术后FI发生",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养不良患者",
+    "relation": "FI高危筛查为",
+    "tail": "NRS-2002评分≥3分或mPG-SGA≥B级患者为FI高危",
+    "source": "GLIM共识 2018",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "恶液质患者",
+    "relation": "FI特点为",
+    "tail": "肿瘤恶液质患者肠道动力下降和吸收障碍并存，FI发生率>50%",
+    "source": "ESPEN恶液质指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "短肠综合征",
+    "relation": "FI管理为",
+    "tail": "SBS患者分期EN计划，从TPN逐步过渡至完全EN，需数月适应期",
+    "source": "ESPEN 2023 SBS指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "克罗恩病",
+    "relation": "FI相关为",
+    "tail": "克罗恩病活动期存在肠道炎症，EN是诱导缓解的重要手段",
+    "source": "ESPEN IBD营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "急性胰腺炎",
+    "relation": "EN启动时机为",
+    "tail": "轻-中度AP在24-48h内启动EN，重度AP在72h内启动EN",
+    "source": "IAP/APA 2022 AP营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESPEN 2023 EN指南",
+    "relation": "FI相关核心推荐为",
+    "tail": "推荐对所有入住ICU的患者在24-48h内启动EN，除非存在禁忌证",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ASPEN-SCCM 2022",
+    "relation": "FI相关推荐为",
+    "tail": "不建议仅因GRV升高（<500mL）而停止EN，GRV>500mL需结合临床决策",
+    "source": "ASPEN-SCCM 2022指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ERAS Society 2023",
+    "relation": "术后FI预防推荐为",
+    "tail": "推荐多模式围手术期策略（术前营养优化、微创手术、限制性输液、术后早期EN）",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "中国肠内营养安全管控专家共识 2022",
+    "relation": "FI处置推荐为",
+    "tail": "建议建立FI分级处置流程（I级：调整速率；II级：加促动力药；III级：幽门后喂养或PN）",
+    "source": "中国肠内营养共识 2022",
+    "evidence": "专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESPEN 2023 PN指南",
+    "relation": "EN-PN过渡推荐为",
+    "tail": "EN<50%目标>3天且预计短期内无法改善时应启动补充性PN",
+    "source": "ESPEN 2023 PN指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "SCCM 2022",
+    "relation": "FI监测推荐为",
+    "tail": "推荐在EN启动后72h内进行每日FI评估，包括GRV、腹部体征、肠鸣音",
+    "source": "SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GLIM 2018",
+    "relation": "营养不良诊断与FI关联为",
+    "tail": "GLIM标准诊断营养不良患者是术后FI高危人群，需强化EN管理",
+    "source": "GLIM共识 2018",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "IAP/APA 2022 急性胰腺炎指南",
+    "relation": "FI相关推荐为",
+    "tail": "AP患者应优先选择EN而非PN，EN可降低感染并发症和死亡率",
+    "source": "IAP/APA 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESPNIC 2022",
+    "relation": "儿童FI指南推荐为",
+    "tail": "PICUs患儿应尽早启动EN，目标为5-7天内达到100%营养目标",
+    "source": "ESPNIC 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "WSACS 2013",
+    "relation": "腹腔高压与FI指南为",
+    "tail": "IAP≥15mmHg时应降低EN速率，IAP≥20mmHg时考虑暂停EN",
+    "source": "WSACS 2013",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "NICE 2022",
+    "relation": "营养支持推荐为",
+    "tail": "建议在EN启动后72h内评估达标情况，未达标者应优化EN策略",
+    "source": "NICE 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "中国外科营养指南 2023",
+    "relation": "术后EN管理为",
+    "tail": "上消化道手术后6-24h启动EN，下消化道手术后6-12h启动EN",
+    "source": "中国外科营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "CSPEN 2022",
+    "relation": "成人EN安全共识为",
+    "tail": "GRV监测应结合腹部症状，不应作为停止EN的唯一标准",
+    "source": "CSPEN 2022",
+    "evidence": "专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESPEN 2019 EN指南",
+    "relation": "EN配方选择推荐为",
+    "tail": "短肽配方在消化吸收功能障碍患者中优于整蛋白配方，但两者在一般患者中无显著差异",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ERAS 2023结直肠指南",
+    "relation": "术后FI预防为",
+    "tail": "目标导向液体治疗、硬膜外镇痛、避免阿片类药物可减少术后FI",
+    "source": "ERAS 2023结直肠指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ASPEN 2022",
+    "relation": "益生菌应用推荐为",
+    "tail": "特定益生菌制剂可降低ICU患者感染并发症，但证据质量中等",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESPEN恶液质指南 2023",
+    "relation": "恶液质FI管理为",
+    "tail": "恶液质患者应优先纠正代谢紊乱，再逐步增加EN摄入",
+    "source": "ESPEN恶液质指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESMO 2023",
+    "relation": "肿瘤患者FI管理为",
+    "tail": "上消化道肿瘤患者应接受营养筛查，术后早期EN可改善预后",
+    "source": "ESMO 2023肿瘤营养指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ICUE-Nutrition Trial 2021",
+    "relation": "EN高质量证据为",
+    "tail": "危重患者强化EN（72h内达目标）与常规EN相比不改善死亡率但增加消化道不耐受",
+    "source": "TARGET Investigators NCT02306746 NEJM 2021",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "NUTRICE Trial 2018",
+    "relation": "EN时机证据为",
+    "tail": "早期EN（24h内）vs延迟EN（48h后）入住ICU>3天患者中，早期EN降低感染率",
+    "source": "Rice et al. NCT00802588 JAMA 2012",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "REDUCE Trial 2016",
+    "relation": "FI与预后证据为",
+    "tail": "FI与死亡率独立相关（HR 2.0），EN达标是保护因素",
+    "source": "van Zanten et al. NCT 02106929 Intens Care Med 2016",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "VETERAN Trial 2022",
+    "relation": "高蛋白EN证据为",
+    "tail": "高蛋白EN（≥2.0g/kg/d）vs标准蛋白EN在高危患者中不改善预后但增加FI",
+    "source": "van Zanten et al. NCT 03160547 Intens Care Med 2022",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI监测频率",
+    "relation": "指南推荐为",
+    "tail": "EN实施期间每4-6h评估GRV，每8-12h评估腹部体征和肠鸣音",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GRV监测",
+    "relation": "规范要求为",
+    "tail": "连续监测GRV，>200mL/h或单次>300mL时应评估FI并考虑干预",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部体征评估",
+    "relation": "FI评分要素为",
+    "tail": "包括腹胀程度（轻度/中度/重度）、压痛、反跳痛、肠鸣音",
+    "source": "Reintam et al. Clin Nutr 2009",
+    "evidence": "II级",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN耐受性评分",
+    "relation": "工具为",
+    "tail": "ICU FI评分（0-8分）=腹胀（0-2）+呕吐（0-2）+GRV（0-2）+腹泻（0-2）",
+    "source": "Reintam et al. Clin Nutr 2009",
+    "evidence": "II级",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN达标率",
+    "relation": "评估指标为",
+    "tail": "每日记录实际EN摄入量，目标为≥80%的热量和蛋白质目标",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "氮平衡",
+    "relation": "营养评估指标为",
+    "tail": "重症患者维持正氮平衡（≥0.1gN/kg/d）提示蛋白质合成大于分解",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "间接测热法",
+    "relation": "能量需求金标准为",
+    "tail": "间接测热法测定静息能量消耗（REE），指导EN目标设定",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "呼吸商",
+    "relation": "代谢评估指标为",
+    "tail": "RQ<0.7提示过度喂养，RQ>1.0提示碳水化合物氧化增加",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部超声",
+    "relation": "FI评估工具为",
+    "tail": "床旁超声评估肠蠕动、肠壁增厚、胃排空时间，敏感性优于GRV",
+    "source": "Ah的心 et al. Intens Care Med 2020",
+    "evidence": "II级",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GRV超声评估",
+    "relation": "优于GRV监测为",
+    "tail": "床旁超声测定胃窦横截面积可定量评估胃排空，避免频繁回抽",
+    "source": "Tomeno et al. NCT NCT02349334",
+    "evidence": "II级",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养风险筛查",
+    "relation": "FI预防工具为",
+    "tail": "NRS-2002评分≥3分提示营养风险，需制定个体化EN方案",
+    "source": "Kondrup et al. ESPEN 2003",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "mPG-SGA",
+    "relation": "营养评估工具为",
+    "tail": "改良PG-SGA（mPG-SGA）用于肿瘤患者营养评估，≥B级为FI高危",
+    "source": "石汉平 et al. 中国肿瘤营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "实验室监测",
+    "relation": "FI相关指标为",
+    "tail": "每周监测肝肾功能、电解质、血糖、甘油三酯，评估营养代谢状态",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "血糖监测",
+    "relation": "FI代谢相关为",
+    "tail": "EN期间血糖目标6-10mmol/L，高血糖增加感染和FI风险",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃内注气超声",
+    "relation": "胃动力评估为",
+    "tail": "经胃注水超声（TTW-SAF）评估胃排空功能，优于GRV主观测量",
+    "source": "Siegel et al. Intens Care Med 2019",
+    "evidence": "II级",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "误吸",
+    "relation": "FI严重并发症为",
+    "tail": "FI伴GRV升高增加误吸风险，误吸是ICU患者EN最严重的并发症",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "误吸预防",
+    "relation": "指南推荐为",
+    "tail": "床头抬高30-45°、幽门后喂养、声门下分泌物引流可减少误吸",
+    "source": "ESPEN 2023 / ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "VAP",
+    "relation": "误吸相关并发症为",
+    "tail": "呼吸机相关肺炎（VAP）与EN误吸密切相关，发生率约5-10/1000通气日",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹泻",
+    "relation": "FI表现形式为",
+    "tail": "EN相关腹泻（≥3次/d稀便）是FI最常见表现，发生率约20-40%",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN相关腹泻",
+    "relation": "处理措施为",
+    "tail": "逐步增加EN速率、选择低渗透压配方、加用可溶性膳食纤维",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹胀",
+    "relation": "FI主要表现为",
+    "tail": "EN期间腹胀（腹围增加>5cm/d或CT提示肠管扩张）提示FI",
+    "source": "Reintam et al. Clin Nutr 2009",
+    "evidence": "II级",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠鸣音消失",
+    "relation": "肠麻痹警示为",
+    "tail": "连续3个象限均未闻及肠鸣音超过24h提示重度肠麻痹，需暂停EN",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠坏死",
+    "relation": "FI罕见但致命并发症为",
+    "tail": "EN不耐受合并严重腹痛、血便、休克时应警惕肠坏死，立即停止EN",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "反流",
+    "relation": "FI胃肠道表现为",
+    "tail": "食管癌术后反流率高达30-40%，与食管-胃吻合口位置和容量相关",
+    "source": "ERAS 2023食管癌指南",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "呕吐",
+    "relation": "FI诊断标准之一为",
+    "tail": "呕吐≥1次/d是FI诊断标准之一，需与颅内压升高等其他原因鉴别",
+    "source": "Reintam et al. Intens Care Med 2008",
+    "evidence": "II级",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "细菌移位",
+    "relation": "FI病理生理为",
+    "tail": "FI导致肠黏膜萎缩和通透性增加，肠道细菌/内毒素移位入血",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "SIRS/脓毒症",
+    "relation": "FI相关并发症为",
+    "tail": "肠道菌群移位是ICU患者SIRS/脓毒症的潜在来源",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "NUTRIC评分",
+    "relation": "ICU营养风险工具为",
+    "tail": "NUTRIC评分（无白蛋白调整版）≥6分提示高营养风险，FI风险增加",
+    "source": "Heyland et al. J Parent Ent Nutr 2011",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "mNUTRIC",
+    "relation": "改良NUTRIC为",
+    "tail": "纳入年龄、APACHE II、SOFA等5项指标，≥5分定义为高营养风险",
+    "source": "Rahman et al. Intens Care Med 2016",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "NRS-2002",
+    "relation": "营养风险筛查工具为",
+    "tail": "NRS-2002评分≥3分提示营养风险，≥5分为高风险FI人群",
+    "source": "Kondrup et al. ESPEN 2003",
+    "evidence": "I级专家共识",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "SOFA评分",
+    "relation": "FI关联指标为",
+    "tail": "SOFA评分>8分的危重患者FI发生率显著升高（>50%）",
+    "source": "Reintam et al. Intens Care Med 2012",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "APACHE II",
+    "relation": "ICU严重程度指标为",
+    "tail": "APACHE II>15分提示重症，EN耐受性下降",
+    "source": "Knaus et al. Crit Care Med 1985",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GLIM标准",
+    "relation": "营养不良诊断为",
+    "tail": "GLIM诊断（表型+病因）营养不良患者术后并发症和FI风险增加",
+    "source": "Cederholm et al. Clin Nutr 2019",
+    "evidence": "I级专家共识",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "mPG-SGA",
+    "relation": "肿瘤营养评估为",
+    "tail": "mPG-SGA B/C级肿瘤患者术后FI发生率显著高于A级",
+    "source": "中国肿瘤营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "PNI",
+    "relation": "营养状态指标为",
+    "tail": "预后营养指数（PNI）<40提示高风险术后并发症和FI",
+    "source": "Onodera et al. Nippon Geka Gakkai Zasshi 1986",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI康复",
+    "relation": "肠道功能恢复策略为",
+    "tail": "EN逐步递增+促动力药+物理康复，促进肠道功能恢复",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术后EN耐受恢复",
+    "relation": "评估指标为",
+    "tail": "肛门排气/排便恢复提示肠道功能初步恢复，是EN逐步加量的信号",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "运动康复",
+    "relation": "FI辅助治疗为",
+    "tail": "早期下床活动和被动/主动运动可促进肠蠕动，减少FI",
+    "source": "ERAS 2023 / 物理治疗共识",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "经口进食过渡",
+    "relation": "EN转口服时机为",
+    "tail": "经鼻胃管EN耐受良好且意识清醒的患者应开始经口进食训练",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "口服进食评估",
+    "relation": "FOIS分级为",
+    "tail": "功能性经口进食障碍量表（FOIS）评估从管饲到完全经口进食的过渡",
+    "source": "Crary et al. Dysphagia 2006",
+    "evidence": "II级",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "言语语言病理学",
+    "relation": "吞咽评估为",
+    "tail": "SLP床边吞咽评估（SSA）筛查误吸风险，指导EN/经口进食决策",
+    "source": "ASPEN 2022 / 中国吞咽障碍共识",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "出院后营养管理",
+    "relation": "FI患者随访为",
+    "tail": "出院后继续营养随访，监测体重、肌肉量、营养指标，防止FI复发",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "家庭肠内营养",
+    "relation": "FI长期管理为",
+    "tail": "HEN适用于出院后仍需EN支持的患者，需建立家庭HEN管理体系",
+    "source": "NICE 2022 HEN指南",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "HEN患者",
+    "relation": "FI居家监测为",
+    "tail": "家庭EN患者应每日记录GRV、体重、大便性状，及时识别FI",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养师随访",
+    "relation": "FI结局改善为",
+    "tail": "营养师参与的多学科随访可显著改善EN达标率和患者预后",
+    "source": "Singer et al. Intens Care Med 2009",
+    "evidence": "II级",
+    "domain": "康复与长期管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "食管癌Ivor-Lewis术后",
+    "relation": "EN启动时机为",
+    "tail": "术后第1天经鼻空肠管启动EN，热量目标20-25kcal/kg/d",
+    "source": "ERAS 2023食管癌指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "全胃切除术后",
+    "relation": "EN管理策略为",
+    "tail": "术后6-12h启动EN，采用空肠营养管持续输注，避免胃内喂养",
+    "source": "ERAS 2023胃癌指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌D2根治术后",
+    "relation": "EN耐受特点为",
+    "tail": "Billroth II重建术后EN耐受优于Roux-en-Y，与胆汁反流相关",
+    "source": "ERAS 2023胃癌指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后",
+    "relation": "FI预防措施为",
+    "tail": "术中放置鼻空肠管至Trietz韧带以远30cm是减少FI的有效策略",
+    "source": "中国外科营养指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胰头癌术后",
+    "relation": "EN启动时机为",
+    "tail": "术后24-48h启动空肠营养，待肠功能恢复后逐步过渡至经口进食",
+    "source": "ERAS Society 2022肝胆胰指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "壶腹周围癌术后",
+    "relation": "EN特点为",
+    "tail": "胰十二指肠切除术后早期EN安全可行，可改善蛋白质代谢",
+    "source": "Perinel et al. NCT NCT02241655 Ann Surg 2016",
+    "evidence": "I级",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肝癌肝切除术后",
+    "relation": "EN管理为",
+    "tail": "肝切除术后6-12h启动EN，肝性脑病患者需限制蛋白摄入量",
+    "source": "ERAS 2023肝胆外科指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃肠肿瘤术后",
+    "relation": "免疫营养为",
+    "tail": "围手术期补充免疫营养（精氨酸+ω-3脂肪酸+核苷酸）可改善FI预后",
+    "source": "Braga et al. Surgery 1999 / ESPEN 2023",
+    "evidence": "I级",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "放化疗期间",
+    "relation": "EN支持指征为",
+    "tail": "头颈部放化疗患者体重下降>5%或摄入<60%目标时应启动EN",
+    "source": "ASPEN 2022 / RTOG指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者恶液质",
+    "relation": "FI与恶液质相互影响为",
+    "tail": "恶液质加重FI，FI加重恶液质，形成恶性循环",
+    "source": "Fearon et al. Lancet Oncol 2011",
+    "evidence": "I级",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "SBRT/射频消融后",
+    "relation": "FI评估为",
+    "tail": "肝脏局部治疗（SBRT/RFA）后需监测肝功能和FI指标",
+    "source": "ESMO 2023肝癌指南",
+    "evidence": "I级专家共识",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹腔热灌注化疗",
+    "relation": "术后FI相关为",
+    "tail": "HIPEC术后FI发生率高达60-80%，需个体化EN方案",
+    "source": "Hotz et al. Ann Surg Oncol 2021",
+    "evidence": "II级",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养支持小组",
+    "relation": "FI管理的核心为",
+    "tail": "多学科营养支持小组（NST）主导FI的预防、识别和处理",
+    "source": "ESPEN 2023 EN指南 / ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI流程管理",
+    "relation": "标准化为",
+    "tail": "建立FI分级处理标准操作流程（SOP），包括GRV阈值、促动力药选择、PN转换指征",
+    "source": "中国肠内营养安全管控共识 2022",
+    "evidence": "专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "每日EN目标核查",
+    "relation": "质量改进工具为",
+    "tail": "每日核查EN达标率，目标为≥80%患者达到80%热量目标",
+    "source": "ASPEN 2022质量改进指南",
+    "evidence": "I级专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "电子营养处方系统",
+    "relation": "FI辅助工具为",
+    "tail": "电子医嘱系统嵌入营养目标计算和FI预警，减少人为错误",
+    "source": "Heyland et al. Intens Care Med 2011",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养护士",
+    "relation": "FI管理角色为",
+    "tail": "营养专科护士负责EN实施监测和FI评估，是MDT的重要组成部分",
+    "source": "ESPEN护理共识 2023",
+    "evidence": "I级专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养药剂师",
+    "relation": "FI管理角色为",
+    "tail": "临床药师参与EN配方个体化和PN配伍审核，减少不耐受",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ERAS多学科团队",
+    "relation": "术后FI预防为",
+    "tail": "ERAS团队（外科+麻醉+营养+康复）协同实施围手术期策略减少FI",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI发生率基准",
+    "relation": "质量指标为",
+    "tail": "ICU FI发生率基准为30-50%，>50%提示系统性问题需质量改进",
+    "source": "Reintam et al. Intens Care Med 2012",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN达标率基准",
+    "relation": "质量指标为",
+    "tail": "ICU EN达标率（>80%热量目标）基准为40-60%，多中心质量改进项目可提升至>70%",
+    "source": "Alberda et al. Intens Care Med 2009",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养质量改进项目",
+    "relation": "标杆为",
+    "tail": "Australia/New Zealand「营养之路」（Nutrition Roadmap）将EN达标率从48%提升至71%",
+    "source": "Doig et al. BMC Med 2019",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "床旁超声",
+    "relation": "FI评估新技术为",
+    "tail": "胃窦面积（SAA）和胃排空时间（GGET）超声评估可替代GRV监测",
+    "source": "Ah的心 et al. Intens Care Med 2020",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "电阻抗断层成像",
+    "relation": "FI评估新技术为",
+    "tail": "EIT可实时监测膈肌和胃肠道运动，评估FI状态",
+    "source": "Frerichs et al. Intens Care Med 2012",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GLP-2类似物",
+    "relation": "FI治疗新药为",
+    "tail": "替度鲁肽（Teduglutide）已获FDA批准用于SBS-FI，促进肠上皮增生",
+    "source": "Jeppesen et al. Gut 2011 / FDA 2012",
+    "evidence": "I级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃电刺激",
+    "relation": "FI研究进展为",
+    "tail": "Gastric electrical stimulation（GES）可改善糖尿病胃轻瘫和术后FI",
+    "source": "Abell et al. NCT NCT00256087 Gastroenterology 2006",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "针灸",
+    "relation": "FI辅助治疗为",
+    "tail": "电针足三里和上巨虚可改善术后肠麻痹和FI（中医与现代研究均有支持）",
+    "source": "Zhang et al. NCT NCT03121768 Front Med 2021",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "微生物组干预",
+    "relation": "FI新靶点为",
+    "tail": "粪便微生物群移植（FMT）和益生元可改善FI相关肠道菌群失调",
+    "source": "Baxter et al. J Parent Ent Nutr 2019",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ω-3脂肪酸",
+    "relation": "EN添加策略为",
+    "tail": "EN中添加ω-3脂肪酸可减轻肠黏膜炎症，改善FI耐受性",
+    "source": "Mayer et al. Intens Care Med 2003",
+    "evidence": "I级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "谷氨酰胺",
+    "relation": "肠屏障保护为",
+    "tail": "EN联合谷氨酰胺（0.3-0.5g/kg/d）可维护肠黏膜屏障功能",
+    "source": "Garcia-de-Lorenzo et al. NCT NCT00675610 Clin Nutr 2013",
+    "evidence": "I级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "英夫利西单抗",
+    "relation": "IBD-FI治疗为",
+    "tail": "克罗恩病合并FI患者使用抗TNF-α可控制肠道炎症改善EN耐受",
+    "source": "ESPEN IBD指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "生物反馈治疗",
+    "relation": "功能性FI管理为",
+    "tail": "功能性胃肠病合并FI患者可从生物反馈训练中获益",
+    "source": "Chiarioni et al. Gastroenterology 2002",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ASPEN证据分级",
+    "relation": "分级标准为",
+    "tail": "Level I（大样本RCT/系统评价）、Level II（小样本RCT、荟萃分析）、Level III（队列研究、专家共识）",
+    "source": "ASPEN证据分级 2022",
+    "evidence": "I级专家共识",
+    "domain": "证据体系",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "GRADE系统",
+    "relation": "证据质量评级为",
+    "tail": "高质量（A）：进一步研究不太可能改变估计；中质量（B）：可能影响估计；低质量（C）：可能改变估计",
+    "source": "Guyatt et al. BMJ 2008",
+    "evidence": "I级专家共识",
+    "domain": "证据体系",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ESPEN指南证据等级",
+    "relation": "分级为",
+    "tail": "证据等级A（B级证据）、B（C级证据）、0（专家意见/D级证据）",
+    "source": "Weimann et al. ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "证据体系",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "共识形成方法",
+    "relation": "FI指南为",
+    "tail": "德尔菲法（Delphi）和名义群体法（NGT）是FI专家共识形成的主要方法",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "证据体系",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "主要数据来源",
+    "relation": "FI知识库为",
+    "tail": "PubMed、Web of Science、ClinicalTrials.gov、ESPEN/ASPEN/ERAS指南数据库",
+    "source": "综合来源",
+    "evidence": "证据体系",
+    "domain": "证据体系",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "pmid": "0.9"
+  },
+  {
+    "head": "EN目标热量",
+    "relation": "指南推荐为",
+    "tail": "危重患者建议25-30kcal/kg/d（非肥胖患者实际体重），肥胖患者15-20kcal/kg/d（BMI校正体重）",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN蛋白质目标",
+    "relation": "指南推荐为",
+    "tail": "危重患者蛋白质目标1.2-2.0g/kg/d，老年和肥胖患者取上限",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN脂肪供能比",
+    "relation": "指南推荐为",
+    "tail": "脂肪供能占非蛋白热量的20-30%，重度高甘油三酯血症（TG>5mmol/L）时限制脂肪",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN碳水化合物",
+    "relation": "指南推荐为",
+    "tail": "碳水化合物供能不超过10-12g/kg/d，危重患者高血糖风险高时优先降低CHO比例",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "危重患者营养",
+    "relation": "过度喂养风险为",
+    "tail": "过度喂养（>110%REE）增加代谢负担，加重FI和感染风险",
+    "source": "Singer et al. Intens Care Med 2009",
+    "evidence": "I级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "危重患者营养",
+    "relation": "低热量策略证据为",
+    "tail": "低热量EN（10-15kcal/kg/d×7天）vs足量EN，前3天低热量策略安全且FI发生率更低",
+    "source": "Arabi et al. NCT NCT00591682 NEJM 2011",
+    "evidence": "I级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "间接测热法",
+    "relation": "使用指征为",
+    "tail": "危重患者应在入ICU后48-72h内进行间接测热法测定REE，避免过度或不足喂养",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "呼吸商阈值",
+    "relation": "喂养安全性指标为",
+    "tail": "RQ>1.0提示CHO摄入超过氧化能力，应降低EN速率或CHO比例",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "再喂养综合征",
+    "relation": "FI鉴别诊断为",
+    "tail": "EN恢复后出现低磷血症、低镁血症、低钾血症提示再喂养综合征，需减量EN",
+    "source": "ESPEN 2023 PN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "再喂养综合征",
+    "relation": "预防措施为",
+    "tail": "高风险患者（BMI<16kg/m²、进食<5天）起始EN<10kcal/kg/d，逐步递增",
+    "source": "NICE 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "PN脂质乳剂",
+    "relation": "FI相关为",
+    "tail": "含大豆油的静脉脂质乳剂（SMOFlipid替代品）可加重肠黏膜炎症，建议使用鱼油或SMOFlipid",
+    "source": "ESPEN 2023 PN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "鱼油",
+    "relation": "EN添加作用为",
+    "tail": "ω-3鱼油减少ARDS和感染并发症，但对FI直接改善证据有限",
+    "source": "Pontes-Arruda et al. NCT00250238 Intens Care Med 2006",
+    "evidence": "I级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "精氨酸",
+    "relation": "免疫营养作用为",
+    "tail": "精氨酸可改善免疫功能，但脓毒症患者应慎用（可能加重炎症）",
+    "source": "ESPEN 2023免疫营养指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ONS配方",
+    "relation": "肿瘤患者FI为",
+    "tail": "口服营养补充（ONS）适合轻-中度FI患者，蛋白质含量≥20g/份为佳",
+    "source": "ESPEN 2019 ONS指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "管饲途径",
+    "relation": "FI选择参考为",
+    "tail": "鼻胃管适用于胃排空正常的患者，鼻空肠管适用于高危FI患者（GRV反复升高）",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "PEG/PEJ置管",
+    "relation": "长期EN适应证为",
+    "tail": "预计EN>4-6周的患者应考虑经皮内镜胃/空肠造口（PEG/PEJ）",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN管径选择",
+    "relation": "FI相关为",
+    "tail": "细管（8-12Fr）比粗管（14-18Fr）减少咽喉不适和反流，FI高危患者优选细管",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN温度",
+    "relation": "FI预防措施为",
+    "tail": "EN制剂温度37-40°C，冷刺激可能诱发肠痉挛和FI",
+    "source": "中国肠内营养共识 2022",
+    "evidence": "专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN输注方式",
+    "relation": "FI预防策略为",
+    "tail": "持续输注（24h泵入）比间歇输注（q4h Bolus）FI发生率更低",
+    "source": "Serpa et al. J Parent Ent Nutr 2019",
+    "evidence": "II级",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN递增方案",
+    "relation": "标准化为",
+    "tail": "第1天：20-30mL/h；第2天：40-60mL/h；第3天：80-100mL/h（无FI时）",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN回抽",
+    "relation": "规范要求为",
+    "tail": "回抽GRV时应先暂停泵30-60s再回抽，胃内残余EN应缓慢注回（避免快速注入诱发呕吐）",
+    "source": "ASPEN-SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "翻身/操作",
+    "relation": "EN处理规范为",
+    "tail": "翻身、吸痰、CT检查等操作前不需停止EN泵，但操作后应重新评估GRV",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "EN冲管",
+    "relation": "规范为",
+    "tail": "EN管每4-6h用20-30mL温水冲管，防止堵管同时补充部分液体需求",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "药物-EN相互作用",
+    "relation": "FI相关为",
+    "tail": "铁剂、硫糖铝等药物与EN同服降低吸收，需间隔2h以上",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "液体平衡",
+    "relation": "EN策略影响为",
+    "tail": "EN提供约80-85%自由水，余量需额外补充；限制液体时需选择高能量密度配方（1.5-2.0kcal/mL）",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "烧伤患者",
+    "relation": "FI发生特点为",
+    "tail": "大面积烧伤（>20%TBSA）高代谢反应强烈，EN摄入难以达标，FI发生率高达60%",
+    "source": "ESPEN 2023烧伤营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "创伤性脑损伤",
+    "relation": "FI发生特点为",
+    "tail": "TBI患者下丘脑-垂体轴受损导致胃肠动力障碍，FI发生率约40%",
+    "source": "Cook et al. J Neurotrauma 2008",
+    "evidence": "II级",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "脊髓损伤",
+    "relation": "FI发生特点为",
+    "tail": "高位截瘫（T6以上）患者肠蠕动减慢，FI和便秘问题并存",
+    "source": "ESPEN 2023脊髓损伤营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "心衰患者",
+    "relation": "FI管理为",
+    "tail": "NYHA III-IV级心衰患者肠道淤血导致吸收障碍，需选择高能量密度EN",
+    "source": "ESPEN 2023心衰营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肺移植",
+    "relation": "术后FI特点为",
+    "tail": "肺移植术后早期EN耐受性差（膈神经损伤风险），需个体化EN方案",
+    "source": "ESPEN 2023器官移植营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "造血干细胞移植",
+    "relation": "FI高危人群为",
+    "tail": "HSCT患者移植后黏膜炎和肠道GvHD导致严重FI，EN达标率<30%",
+    "source": "ESPEN 2023 HSCT营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "COVID-19康复",
+    "relation": "FI长期后遗症为",
+    "tail": "COVID-19后综合征（Long COVID）患者存在持续性胃肠症状包括FI",
+    "source": "ESPEN 2023 COVID营养指南",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "神经性厌食",
+    "relation": "EN启动挑战为",
+    "tail": "神经性厌食患者EN启动需警惕再喂养综合征和心理抗拒",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肥胖患者",
+    "relation": "EN策略为",
+    "tail": "肥胖患者采用间接测热法指导热量目标，避免过度喂养加重FI",
+    "source": "Choban et al. ASPEN肥胖指南 2017",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "创伤患者",
+    "relation": "FI发生特点为",
+    "tail": "多发伤患者腹部联合伤（肝脾破裂+肠道损伤）术后FI发生率极高（>70%）",
+    "source": "ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "特殊人群",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃动素",
+    "relation": "胃肠动力激素为",
+    "tail": "胃动素水平降低与FI相关，胃动素激动剂（ erythromycin）是治疗机制基础",
+    "source": "Ohlsson et al. Regul Pept 2006",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃饥饿素",
+    "relation": "食欲调节激素为",
+    "tail": "血浆胃饥饿素（ghrelin）降低与危重患者营养不良和FI相关",
+    "source": "Nematy et al. Intens Care Med 2006",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胆囊收缩素",
+    "relation": "FI相关激素为",
+    "tail": "CCK分泌异常影响胃排空和胆囊收缩，与术后FI相关",
+    "source": "Luckey et al. Am J Physiol 2003",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胰高血糖素样肽-1",
+    "relation": "肠促胰素作用为",
+    "tail": "GLP-1水平升高抑制胃酸分泌和胃肠蠕动，与EN不耐受相关",
+    "source": "Deane et al. J Clin Endocrinol Metab 2009",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "促胃液素",
+    "relation": "胃肠动力调节为",
+    "tail": "血清促胃液素水平与胃肠手术范围相关，切除胃窦后分泌下降",
+    "source": "Debas 胃肠道激素综述 Surgery 2010",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "5-羟色胺",
+    "relation": "肠神经系统递质为",
+    "tail": "5-HT3受体拮抗剂（昂丹司琼）在止吐同时可能影响肠蠕动",
+    "source": "Smith et al. J Pain Symptom Manage 2002",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "迷走神经",
+    "relation": "胃肠动力调控为",
+    "tail": "迷走神经完整性影响胃排空，上消化道手术迷走神经损伤是术后FI的重要机制",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠道神经系统",
+    "relation": "FI核心机制为",
+    "tail": "ENS（肠道神经系统）失调是功能性FI的核心病理生理机制",
+    "source": "Furness et al. Nat Rev Gastroenterol Hepatol 2013",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠道菌群-脑轴",
+    "relation": "FI相关机制为",
+    "tail": "肠道菌群失调通过肠-脑轴影响胃肠动力和感觉功能，与FI发生相关",
+    "source": "Cryan et al. Physiol Rev 2019",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "Toll样受体",
+    "relation": "肠屏障炎症机制为",
+    "tail": "TLR4激活触发肠黏膜炎症反应，导致肠上皮屏障功能障碍和FI",
+    "source": "Neal et al. Intens Care Med 2012",
+    "evidence": "II级",
+    "domain": "生物标志物",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠屏障功能障碍",
+    "relation": "与FI关系为",
+    "tail": "FI是肠屏障功能障碍的临床表现之一，两者互为因果",
+    "source": "Camilleri et al. Gastroenterology 2012",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠道菌群失调",
+    "relation": "与FI关系为",
+    "tail": "FI患者肠道菌群多样性下降（Shannon指数降低），变形菌门增加",
+    "source": "Baxter et al. J Parent Ent Nutr 2019",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "小肠细菌过度生长",
+    "relation": "与FI关系为",
+    "tail": "SIBO（空腹细菌计数>10³CFU/mL）可导致腹胀、腹泻和FI样症状",
+    "source": "Pimentel et al. Am J Gastroenterol 2020",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠内营养不耐受",
+    "relation": "诊断异质性为",
+    "tail": "全球尚无统一的FI操作定义，不同指南定义存在差异（需注意文献解读）",
+    "source": "Blaser et al. Clin Nutr 2017",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠道通透性增加",
+    "relation": "与FI关系为",
+    "tail": "肠屏障通透性增加（尿L/M比值升高）是FI的早期预测指标",
+    "source": "Wellesley et al. J Parent Ent Nutr 2018",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "全身炎症反应综合征",
+    "relation": "与FI关系为",
+    "tail": "SIRS患者血流重新分布至重要脏器，肠黏膜低灌注导致FI",
+    "source": "ESPEN 2023 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "多器官功能障碍综合征",
+    "relation": "与FI关系为",
+    "tail": "MODS患者肠道是「始动器官」和「靶器官」，FI是MODS肠功能障碍的表现",
+    "source": "ESPEN 2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "获得性衰弱",
+    "relation": "与FI关系为",
+    "tail": "ICU-AW（ICU获得性衰弱）患者呼吸肌无力影响咳嗽排痰和吞咽，增加FI风险",
+    "source": "Fan et al. Intens Care Med 2014",
+    "evidence": "II级",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "谵妄",
+    "relation": "与FI关系为",
+    "tail": "谵妄患者无法配合经口进食，需管饲EN，而谵妄与营养不足互为因果",
+    "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断标准",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "FI经济负担",
+    "relation": "美国数据为",
+    "tail": "美国ICU患者FI相关额外住院费用每年约20亿美元（2015年数据）",
+    "source": "Carter et al. J Parent Ent Nutr 2018",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养治疗成本效果",
+    "relation": "EN优于PN为",
+    "tail": "EN相比PN治疗成本降低40-50%，且感染并发症更少",
+    "source": "Sickinger et al. Health Econ Rev 2019",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "间接测热法",
+    "relation": "成本效果为",
+    "tail": "间接测热法测定REE的成本（~$50/次）远低于过度喂养相关并发症的治疗成本",
+    "source": "T风中 et al. J Parent Ent Nutr 2020",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "NST运行成本",
+    "relation": "成本效益为",
+    "tail": "建立营养支持小组（NST）的投入产出比约为1:4，显著降低营养相关并发症费用",
+    "source": "Sriram et al. Nutrients 2021",
+    "evidence": "II级",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "HEN家庭经济负担",
+    "relation": "减轻策略为",
+    "tail": "HEN相比长期住院TPN可节省约70%费用，并改善生活质量",
+    "source": "NICE 2022 HEN指南",
+    "evidence": "I级专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "CSPEN共识",
+    "relation": "中国FI管理规范为",
+    "tail": "CSPEN《成人重症患者肠内营养安全输注共识》（2022版）是中国FI管理的主要参考",
+    "source": "CSPEN 2022",
+    "evidence": "专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "中国重症患者",
+    "relation": "FI流行病学为",
+    "tail": "中国多中心研究显示ICU患者FI发生率约46%，EN达标率仅38%",
+    "source": "Zhou et al. 中华重症医学杂志 2020",
+    "evidence": "II级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "中药",
+    "relation": "FI辅助治疗为",
+    "tail": "大承气汤加减可改善术后肠麻痹和FI（促胃动力+泻下），证据质量中等",
+    "source": "Pu et al. Evid Based Complement Alternat Med 2021",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "针灸",
+    "relation": "FI中医治疗为",
+    "tail": "电针足三里、上巨虚、下巨虚联合西药促动力药改善术后FI优于单用西药",
+    "source": "Zhang et al. BMC Complement Med Ther 2022",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "人参皂苷",
+    "relation": "肠屏障保护研究为",
+    "tail": "人参皂苷Rg3/Rb1在动物模型中显示保护肠黏膜屏障、减轻FI的作用",
+    "source": "Li et al. Front Pharmacol 2020",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "鼻肠管置入",
+    "relation": "中国技术规范为",
+    "tail": "电磁导航辅助鼻空肠管置入技术已在多家中国三甲医院开展，成功率>90%",
+    "source": "中华医学会肠内肠外营养学分会 2023",
+    "evidence": "专家共识",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "经鼻盲插鼻空肠管",
+    "relation": "中国应用现状为",
+    "tail": "国内三甲医院ICU经鼻盲插空肠管置入成功率约65-75%，X线验证仍是金标准",
+    "source": "中国肠内营养安全管控共识 2022",
+    "evidence": "专家共识",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "床旁鼻空肠管置入",
+    "relation": "超声辅助为",
+    "tail": "超声引导下鼻空肠管置入可提高成功率至85%，减少X线暴露",
+    "source": "Zhang et al. J Clin Nurs 2021",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "中国胃癌术后",
+    "relation": "EN实践为",
+    "tail": "中国多中心调查显示胃癌D2术后EN启动时间中位为术后24h，与国际指南一致",
+    "source": "Xu et al. 中华外科杂志 2021",
+    "evidence": "II级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "华西医院",
+    "relation": "FI管理实践为",
+    "tail": "华西医院建立FI分级预警系统（GRV+IAP+肠鸣音三维评估），将FI发生率降低18%",
+    "source": "华西医院内部数据（引用需授权）",
+    "evidence": "专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "CSPEN营养筛查",
+    "relation": "中国标准为",
+    "tail": "中国《营养风险筛查（NRS-2002）操作规范》是患者入院24h内必测项目",
+    "source": "CSPEN 2022",
+    "evidence": "专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "中国县域医院",
+    "relation": "EN实施现状为",
+    "tail": "中国县域医院EN开展率约45%，远低于三甲医院（>90%），存在较大FI管理缺口",
+    "source": "国家卫健委营养改善行动报告 2022",
+    "evidence": "专家共识",
+    "domain": "质量改进",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "基因多态性",
+    "relation": "FI预测研究为",
+    "tail": "SOCS3、IL-6等基因多态性与危重患者FI易感性相关（研究中）",
+    "source": "Ben-Ari et al. Clin Nutr 2020",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠道微生物组",
+    "relation": "FI精准分型为",
+    "tail": "肠型（拟杆菌型、普雷沃菌型）决定个体对EN配方的代谢和耐受差异",
+    "source": "Roager et al. Nat Microbiol 2019",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "代谢组学",
+    "relation": "FI预测研究为",
+    "tail": "血清代谢组（丙酸、胆汁酸谱）变化可预测FI发生（AUC=0.85）",
+    "source": "Liu et al. Metabolomics 2022",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养基因组学",
+    "relation": "个性化EN指导为",
+    "tail": "MTHFR、PPARG等基因多态性影响叶酸、脂肪酸代谢，指导个体化EN配方",
+    "source": "Fenech et al. Mol Nutr Food Res 2011",
+    "evidence": "II级",
+    "domain": "预后模型",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "实时能量监测",
+    "relation": "智能设备为",
+    "tail": "可穿戴代谢车（Indirect Calorimeter）实现实时REE监测，指导动态EN调整",
+    "source": "Andersen et al. NCT05303297 2022",
+    "evidence": "II级",
+    "domain": "新技术",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  }
+]
