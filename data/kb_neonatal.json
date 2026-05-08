@@ -402,17 +402,6 @@
     "population": "neonatal"
   },
   {
-    "head": "深度水解配方奶",
-    "relation": "干预指征",
-    "tail": "用于疑似牛奶蛋白过敏相关的喂养不耐受",
-    "source": "ESPGHAN/ AAP婴儿喂养不耐受指南 2024",
-    "evidence": "I级",
-    "domain": "干预手段",
-    "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
-  },
-  {
     "head": "胃肠道激素",
     "relation": "潜在干预靶点",
     "tail": "胃饥饿素、胆囊收缩素水平与早产儿胃肠成熟度相关",

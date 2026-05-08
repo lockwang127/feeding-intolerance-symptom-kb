@@ -99,10 +99,32 @@
     "population": "all"
   },
   {
+    "head": "整蛋白配方",
+    "relation": "FI初始选择为",
+    "tail": "适用于胃肠道功能基本正常的患者，是FI初始管理的首选",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
     "head": "短肽配方",
     "relation": "FI时选择为",
     "tail": "适用于中度肠道功能障碍患者（吸收面积减少、酶活性下降）",
     "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "氨基酸配方",
+    "relation": "FI重症选择为",
+    "tail": "适用于重症肠功能障碍患者，氮源以氨基酸形式提供",
+    "source": "ASPEN 2022",
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
@@ -125,17 +147,6 @@
     "relation": "FI替代方案为",
     "tail": "胃喂养不耐受时可经鼻空肠管或空肠造口行幽门后喂养",
     "source": "ASPEN-SCCM 2022 / ESPEN 2023",
-    "evidence": "I级专家共识",
-    "domain": "营养管理",
-    "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
-  },
-  {
-    "head": "空肠造口",
-    "relation": "上消化道术后FI管理为",
-    "tail": "术中同期行空肠造口置管，术后早期行幽门后EN",
-    "source": "中国外科营养指南 2023",
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
@@ -286,6 +297,138 @@
     "population": "all"
   },
   {
+    "head": "ASPEN-SCCM 2022",
+    "relation": "FI相关推荐为",
+    "tail": "不建议仅因GRV升高（<500mL）而停止EN，GRV>500mL需结合临床决策",
+    "source": "ASPEN-SCCM 2022指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "ERAS Society 2023",
+    "relation": "术后FI预防推荐为",
+    "tail": "推荐多模式围手术期策略（术前营养优化、微创手术、限制性输液、术后早期EN）",
+    "source": "ERAS Society 2023",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "中国肠内营养安全管控专家共识 2022",
+    "relation": "FI处置推荐为",
+    "tail": "建议建立FI分级处置流程（I级：调整速率；II级：加促动力药；III级：幽门后喂养或PN）",
+    "source": "中国肠内营养共识 2022",
+    "evidence": "专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "ESPEN 2023 PN指南",
+    "relation": "EN-PN过渡推荐为",
+    "tail": "EN<50%目标>3天且预计短期内无法改善时应启动补充性PN",
+    "source": "ESPEN 2023 PN指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "SCCM 2022",
+    "relation": "FI监测推荐为",
+    "tail": "推荐在EN启动后72h内进行每日FI评估，包括GRV、腹部体征、肠鸣音",
+    "source": "SCCM 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "GLIM 2018",
+    "relation": "营养不良诊断与FI关联为",
+    "tail": "GLIM标准诊断营养不良患者是术后FI高危人群，需强化EN管理",
+    "source": "GLIM共识 2018",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "WSACS 2013",
+    "relation": "腹腔高压与FI指南为",
+    "tail": "IAP≥15mmHg时应降低EN速率，IAP≥20mmHg时考虑暂停EN",
+    "source": "WSACS 2013",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "NICE 2022",
+    "relation": "营养支持推荐为",
+    "tail": "建议在EN启动后72h内评估达标情况，未达标者应优化EN策略",
+    "source": "NICE 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "ESPEN 2019 EN指南",
+    "relation": "EN配方选择推荐为",
+    "tail": "短肽配方在消化吸收功能障碍患者中优于整蛋白配方，但两者在一般患者中无显著差异",
+    "source": "ESPEN 2019 EN指南",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "ESPEN恶液质指南 2023",
+    "relation": "恶液质FI管理为",
+    "tail": "恶液质患者应优先纠正代谢紊乱，再逐步增加EN摄入",
+    "source": "ESPEN恶液质指南 2023",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "REDUCE Trial 2016",
+    "relation": "FI与预后证据为",
+    "tail": "FI与死亡率独立相关（HR 2.0），EN达标是保护因素",
+    "source": "van Zanten et al. NCT 02106929 Intens Care Med 2016",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "VETERAN Trial 2022",
+    "relation": "高蛋白EN证据为",
+    "tail": "高蛋白EN（≥2.0g/kg/d）vs标准蛋白EN在高危患者中不改善预后但增加FI",
+    "source": "van Zanten et al. NCT 03160547 Intens Care Med 2022",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
     "head": "FI监测频率",
     "relation": "指南推荐为",
     "tail": "EN实施期间每4-6h评估GRV，每8-12h评估腹部体征和肠鸣音",
@@ -323,6 +466,17 @@
     "relation": "评估指标为",
     "tail": "每日记录实际EN摄入量，目标为≥80%的热量和蛋白质目标",
     "source": "ASPEN 2022",
+    "evidence": "I级专家共识",
+    "domain": "监测与评估",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "氮平衡",
+    "relation": "营养评估指标为",
+    "tail": "重症患者维持正氮平衡（≥0.1gN/kg/d）提示蛋白质合成大于分解",
+    "source": "ESPEN 2023 EN指南",
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
@@ -430,6 +584,17 @@
     "population": "all"
   },
   {
+    "head": "腹部X线检查",
+    "relation": "适应证",
+    "tail": "怀疑NEC或肠梗阻时，评估肠管扩张、气液平、胃肠道穿孔",
+    "source": "NICE Guidelines / ESPGHAN 2024",
+    "evidence": "I级专家共识",
+    "domain": "评估方式",
+    "confidence": 0.95,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
     "head": "喂养不耐受",
     "relation": "粪便钙卫蛋白",
     "tail": "可作为肠道炎症标志物，升高提示肠道损伤",
@@ -439,6 +604,28 @@
     "confidence": 0.8,
     "update_date": "2026-05-08",
     "pmid": "39739912",
+    "population": "all"
+  },
+  {
+    "head": "大型腹部手术",
+    "relation": "术前营养评估",
+    "tail": "所有大型腹部手术患者术前均应进行营养风险筛查（NRS 2002）",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.95,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "腹部大手术",
+    "relation": "出院后营养随访",
+    "tail": "出院后1周、2周、1月门诊随访，评估营养状况并调整方案",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08",
     "population": "all"
   },
   {
@@ -703,6 +890,17 @@
     "source": "ESPEN 2019 EN指南",
     "evidence": "I级专家共识",
     "domain": "营养管理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "all"
+  },
+  {
+    "head": "CSPEN营养筛查",
+    "relation": "中国标准为",
+    "tail": "中国《营养风险筛查（NRS-2002）操作规范》是患者入院24h内必测项目",
+    "source": "CSPEN 2022",
+    "evidence": "专家共识",
+    "domain": "指南推荐",
     "confidence": 0.85,
     "update_date": "2026-05-08",
     "population": "all"
