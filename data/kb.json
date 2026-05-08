@@ -2284,6 +2284,146 @@
     "update_date": "2026-05-08"
   },
   {
+    "head": "无创正压通气早产儿喂养不耐受",
+    "relation": "护理最佳证据",
+    "tail": "体位管理（俯卧位或右侧卧位）、微量喂养、口腔刺激、非营养性吸吮可减少喂养不耐受发生",
+    "source": "无创正压通气下早产儿喂养不耐受护理的最佳证据总结 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "无创正压通气早产儿",
+    "relation": "喂养时机",
+    "tail": "稳定期呼吸支持参数下可开始微量肠内喂养，喂养不增加呼吸做功",
+    "source": "无创正压通气下早产儿喂养不耐受护理的最佳证据总结 2025",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿出院后喂养",
+    "relation": "随访管理共识",
+    "tail": "中国医师协会新生儿科医师分会早产儿专业委员会发布《早产儿出院后随访与健康管理专家共识（2025）》",
+    "source": "中华儿科杂志 2025",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿出院后喂养",
+    "relation": "营养随访指标",
+    "tail": "体重、身长、头围增长速率，评估追赶生长情况与喂养耐受性",
+    "source": "早产儿出院后随访与健康管理专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿出院后",
+    "relation": "喂养方案调整",
+    "tail": "根据生长评估调整强化母乳或早产儿配方奶，矫正年龄6月内维持强化喂养",
+    "source": "早产儿出院后随访与健康管理专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿精细化管理",
+    "relation": "参考指南",
+    "tail": "参考《中华医学会围产医学分会早产儿管理指南（2022）》《美国儿科学会（AAP）早产儿保健指南》",
+    "source": "早产儿精细化管理指南 2025",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "专家共识发布",
+    "tail": "中国医师协会新生儿科医师分会循证专业委员会、中华儿科杂志编辑委员会发布《早产儿经口喂养临床实践专家共识（2025）》",
+    "source": "中华儿科杂志 2025",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "启动时机",
+    "tail": "矫正胎龄32-34周开始尝试经口喂养，伴有呼吸支持者需个体化评估",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养能力",
+    "relation": "评估时机",
+    "tail": "喂养前进行口腔运动评估，包括口腔反射（觅食、吸吮、吞咽）、口腔结构完整性",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "喂养过渡策略",
+    "tail": "管饲→部分经口→完全经口三阶段过渡，根据矫正胎龄和临床表现调整",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "喂养效率评估",
+    "tail": "记录每次喂养时间、摄入量、疲劳征象，评估指标包括喂养完成率、喂养时间、摄入百分比",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "失败指征",
+    "tail": "呼吸暂停、心率下降、血氧饱和度下降、疲劳表现（出汗、嘴唇发绀）",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "环境要求",
+    "tail": "安静环境、半斜坡卧位（30-45度）、非侵入性交互（避免过度刺激）",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿经口喂养",
+    "relation": "照顾者教育",
+    "tail": "出院前培训家长识别喂养线索、正确喂养姿势、应急处理",
+    "source": "早产儿经口喂养临床实践专家共识（2025）",
+    "evidence": "I级专家共识",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
     "head": "喂养不耐受",
     "relation": "临床定义",
     "tail": "在生后2周内不能达到全肠内营养（150ml/kg/d），伴有胃潴留、腹胀、呕吐等临床表现",
@@ -2368,6 +2508,111 @@
     "confidence": 0.95,
     "update_date": "2026-05-08",
     "pmid": "39381698"
+  },
+  {
+    "head": "早产儿肠内营养",
+    "relation": "指南版本",
+    "tail": "Neonatal Nutrition Guidelines Nov 2024 英国多家NHS医院联合更新",
+    "source": "Ashford St Peters NHS Trust 2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿肠内营养",
+    "relation": "喂养启动策略",
+    "tail": "极低出生体重儿出生后24-48h内启动微量肠内营养，0.5-1ml/kg/d起始",
+    "source": "Neonatal Nutrition Guidelines Nov 2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿益生菌预防NEC",
+    "relation": "指南推荐",
+    "tail": "英国NHS East of England建议<32周或<1500g早产儿常规使用益生菌预防NEC",
+    "source": "Probiotic Guideline 2025 NHS UK",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿益生菌配方",
+    "relation": "推荐菌株",
+    "tail": "婴儿双歧杆菌BB-02 + 鼠李糖乳杆菌LGG + 布拉氏酵母菌三联制剂",
+    "source": "Probiotic Guideline 2025 NHS UK",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿益生菌",
+    "relation": "用法用量",
+    "tail": "每日1次，每次1袋（含10亿CFU），从生后24h开始直至矫正胎龄36周或出院",
+    "source": "Probiotic Guideline 2025 NHS UK",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "坏死性小肠结肠炎",
+    "relation": "风险因素",
+    "tail": "早产、配方奶喂养、肠道菌群失调、肠道低灌注是主要危险因素",
+    "source": "Gut microbiota NEC review 2025",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "update_date": "2026-05-08",
+    "pmid": "41367217"
+  },
+  {
+    "head": "肠道菌群",
+    "relation": "NEC保护因素",
+    "tail": "双歧杆菌、乳酸杆菌丰度增加可降低NEC发生风险",
+    "source": "Gut microbiota NEC review 2025",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "pmid": "41367217"
+  },
+  {
+    "head": "极低出生体重儿喂养不耐受",
+    "relation": "发生率",
+    "tail": "ELBW（<1000g）喂养不耐受发生率高达50-70%",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "II级",
+    "domain": "定义与诊断",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "pmid": "39739912"
+  },
+  {
+    "head": "极低出生体重儿喂养不耐受",
+    "relation": "临床结局",
+    "tail": "延长肠外营养、增加血流感染、影响生长发育、增加住院费用",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "update_date": "2026-05-08",
+    "pmid": "39739912"
+  },
+  {
+    "head": "喂养不耐受预测模型",
+    "relation": "生物标志物组合",
+    "tail": "粪便钙卫蛋白+粪便蛋白酶+粪便短链脂肪酸联合预测FI风险",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "II级",
+    "domain": "评估方式",
+    "confidence": 0.8,
+    "update_date": "2026-05-08",
+    "pmid": "39739912"
   },
   {
     "head": "益生菌",

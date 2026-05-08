@@ -1,12 +1,15 @@
 {
   "version": "1.0.0",
   "update_date": "2026-05-08",
-  "total_entries": 336,
+  "total_entries": 360,
   "duplicates_removed": 0,
   "source_files": {
     "literature_batch_20260508.json": 220,
     "literature_batch_20260508_assessment.json": 8,
+    "literature_batch_20260508_chinese_guidelines.json": 6,
+    "literature_batch_20260508_consensus_2025.json": 8,
     "literature_batch_20260508_definition.json": 8,
+    "literature_batch_20260508_international_guidelines.json": 10,
     "literature_batch_20260508_intervention.json": 12,
     "literature_batch_20260508_outcome.json": 12,
     "literature_batch_20260508_supplement.json": 76
@@ -27,9 +30,9 @@
     "质量改进": 17,
     "新技术": 17,
     "证据体系": 5,
-    "评估方式": 8,
-    "定义与诊断": 8,
-    "干预手段": 12,
-    "干预后效果": 12
+    "评估方式": 14,
+    "干预手段": 20,
+    "定义与诊断": 16,
+    "干预后效果": 14
   }
 }

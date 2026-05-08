@@ -1,0 +1,112 @@
+[
+  {
+    "head": "早产儿肠内营养",
+    "relation": "指南版本",
+    "tail": "Neonatal Nutrition Guidelines Nov 2024 英国多家NHS医院联合更新",
+    "source": "Ashford St Peters NHS Trust 2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿肠内营养",
+    "relation": "喂养启动策略",
+    "tail": "极低出生体重儿出生后24-48h内启动微量肠内营养，0.5-1ml/kg/d起始",
+    "source": "Neonatal Nutrition Guidelines Nov 2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿益生菌预防NEC",
+    "relation": "指南推荐",
+    "tail": "英国NHS East of England建议<32周或<1500g早产儿常规使用益生菌预防NEC",
+    "source": "Probiotic Guideline 2025 NHS UK",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿益生菌配方",
+    "relation": "推荐菌株",
+    "tail": "婴儿双歧杆菌BB-02 + 鼠李糖乳杆菌LGG + 布拉氏酵母菌三联制剂",
+    "source": "Probiotic Guideline 2025 NHS UK",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿益生菌",
+    "relation": "用法用量",
+    "tail": "每日1次，每次1袋（含10亿CFU），从生后24h开始直至矫正胎龄36周或出院",
+    "source": "Probiotic Guideline 2025 NHS UK",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "坏死性小肠结肠炎",
+    "relation": "风险因素",
+    "tail": "早产、配方奶喂养、肠道菌群失调、肠道低灌注是主要危险因素",
+    "source": "Gut microbiota NEC review 2025",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "pmid": "41367217",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠道菌群",
+    "relation": "NEC保护因素",
+    "tail": "双歧杆菌、乳酸杆菌丰度增加可降低NEC发生风险",
+    "source": "Gut microbiota NEC review 2025",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.85,
+    "pmid": "41367217",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "极低出生体重儿喂养不耐受",
+    "relation": "发生率",
+    "tail": "ELBW（<1000g）喂养不耐受发生率高达50-70%",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "II级",
+    "domain": "定义与诊断",
+    "confidence": 0.85,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "极低出生体重儿喂养不耐受",
+    "relation": "临床结局",
+    "tail": "延长肠外营养、增加血流感染、影响生长发育、增加住院费用",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受预测模型",
+    "relation": "生物标志物组合",
+    "tail": "粪便钙卫蛋白+粪便蛋白酶+粪便短链脂肪酸联合预测FI风险",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "II级",
+    "domain": "评估方式",
+    "confidence": 0.8,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  }
+]
