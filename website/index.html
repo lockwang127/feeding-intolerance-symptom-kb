@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>喂养不耐受（FI）知识库 — Feeding Intolerance Knowledge Base</title>
+<style>
+  :root {
+    --primary: #1a3c5e;
+    --primary-light: #2a5f8a;
+    --accent: #e67e22;
+    --accent-light: #f39c12;
+    --bg: #f4f7fa;
+    --card-bg: #ffffff;
+    --text: #2c3e50;
+    --text-light: #5a7a95;
+    --border: #dde4ec;
+    --green: #27ae60;
+    --red: #e74c3c;
+    --purple: #8e44ad;
+    --teal: #16a085;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Segoe UI", Roboto, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.7;
+  }
+
+  /* Header */
+  .site-header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+    color: #fff;
+    padding: 60px 24px 48px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .site-header::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.05) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .site-header .badge-row {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 20px;
+    padding: 4px 14px;
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+  .site-header h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 10px;
+  }
+  .site-header .subtitle {
+    font-size: 1.05rem;
+    opacity: 0.85;
+    max-width: 680px;
+    margin: 0 auto 24px;
+  }
+  .header-stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 24px;
+    flex-wrap: wrap;
+  }
+  .header-stat {
+    text-align: center;
+  }
+  .header-stat strong {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--accent-light);
+  }
+  .header-stat span {
+    font-size: 0.8rem;
+    opacity: 0.75;
+  }
+
+  /* Nav tabs */
+  .nav-tabs {
+    background: var(--card-bg);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .nav-tabs button {
+    background: none;
+    border: none;
+    padding: 16px 28px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-light);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+  }
+  .nav-tabs button:hover { color: var(--primary); }
+  .nav-tabs button.active {
+    color: var(--primary);
+    border-bottom-color: var(--accent);
+  }
+
+  /* Sections */
+  .section {
+    display: none;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 48px 24px;
+  }
+  .section.active { display: block; }
+
+  .section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 24px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title .icon {
+    width: 32px;
+    height: 32px;
+    background: linear-gradient(135deg, var(--primary), var(--primary-light));
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+  }
+
+  /* Cards */
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 28px;
+    margin-bottom: 20px;
+  }
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 12px;
+  }
+
+  /* Grid layouts */
+  .grid-3 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 20px;
+  }
+
+  /* Stat boxes */
+  .stat-box {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    text-align: center;
+  }
+  .stat-box .number {
+    font-size: 2.4rem;
+    font-weight: 800;
+    color: var(--primary);
+  }
+  .stat-box .label {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin-top: 4px;
+  }
+
+  /* Domain bars */
+  .domain-bar-list {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .domain-bar-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .domain-bar-label {
+    width: 140px;
+    font-size: 0.82rem;
+    color: var(--text);
+    flex-shrink: 0;
+    text-align: right;
+  }
+  .domain-bar-track {
+    flex: 1;
+    height: 24px;
+    background: var(--bg);
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+  }
+  .domain-bar-fill {
+    height: 100%;
+    border-radius: 6px;
+    background: linear-gradient(90deg, var(--primary), var(--primary-light));
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 0.75rem;
+    color: #fff;
+    font-weight: 600;
+    transition: width 1s ease;
+  }
+  .domain-bar-fill.count { background: linear-gradient(90deg, var(--primary), var(--primary-light)); }
+  .domain-bar-fill.pct { background: linear-gradient(90deg, var(--accent), var(--accent-light)); }
+
+  /* Population pills */
+  .pop-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-top: 20px;
+  }
+  .pop-card {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .pop-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+  .pop-card .icon { font-size: 2rem; margin-bottom: 8px; }
+  .pop-card .count { font-size: 1.8rem; font-weight: 800; color: var(--primary); }
+  .pop-card .label { font-size: 0.85rem; color: var(--text-light); margin-top: 4px; }
+  .pop-card .pct { font-size: 0.75rem; color: var(--accent); margin-top: 4px; }
+
+  /* Knowledge cards */
+  #kb-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 16px;
+  }
+  .kb-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px;
+    transition: box-shadow 0.2s;
+    cursor: pointer;
+  }
+  .kb-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+  .kb-card .head {
+    font-weight: 700;
+    color: var(--primary);
+    font-size: 0.95rem;
+    margin-bottom: 6px;
+  }
+  .kb-card .relation {
+    color: var(--accent);
+    font-size: 0.82rem;
+    margin-bottom: 6px;
+    font-weight: 500;
+  }
+  .kb-card .tail {
+    color: var(--text);
+    font-size: 0.85rem;
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+  .kb-card .meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .kb-card .tag {
+    background: var(--bg);
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 0.72rem;
+    color: var(--text-light);
+  }
+  .kb-card .tag.domain { background: #e8f0fe; color: #1a56db; }
+  .kb-card .tag.evidence { background: #fef3e2; color: #d97706; }
+  .kb-card .tag.pop { background: #f0fdf4; color: #16a34a; }
+
+  /* Evidence colors */
+  .kb-card .tag.evidence.I级 { background: #dcfce7; color: #15803d; }
+  .kb-card .tag.evidence.II级 { background: #eff6ff; color: #1d4ed8; }
+  .kb-card .tag.evidence.专家共识 { background: #f5f3ff; color: #6d28d9; }
+
+  /* Search & Filter */
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  .search-bar input {
+    width: 100%;
+    padding: 12px 18px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .search-bar input:focus { border-color: var(--primary); }
+  .filter-row {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  .filter-row label {
+    font-size: 0.82rem;
+    color: var(--text-light);
+    font-weight: 500;
+  }
+  .filter-row select {
+    padding: 6px 12px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.85rem;
+    outline: none;
+    cursor: pointer;
+  }
+  .filter-row select:focus { border-color: var(--primary); }
+  .result-count {
+    font-size: 0.82rem;
+    color: var(--text-light);
+    margin-bottom: 12px;
+  }
+
+  /* Source list */
+  .source-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .source-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 14px 16px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .source-item .icon { font-size: 1.2rem; flex-shrink: 0; }
+  .source-item .name { font-weight: 600; color: var(--primary); font-size: 0.9rem; }
+  .source-item .desc { font-size: 0.82rem; color: var(--text-light); margin-top: 2px; }
+  .source-item .count-badge {
+    margin-left: auto;
+    background: var(--primary);
+    color: #fff;
+    border-radius: 12px;
+    padding: 2px 10px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+
+  /* Evidence table */
+  .evidence-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+  }
+  .evidence-table th, .evidence-table td {
+    padding: 10px 14px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.85rem;
+  }
+  .evidence-table th {
+    background: var(--bg);
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .evidence-table tr:hover td { background: #f8fafc; }
+  .evidence-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+  .evidence-badge.I级 { background: #dcfce7; color: #15803d; }
+  .evidence-badge.II级 { background: #eff6ff; color: #1d4ed8; }
+  .evidence-badge.专家共识 { background: #f5f3ff; color: #6d28d9; }
+  .evidence-badge.I级专家共识 { background: #fef9c3; color: #a16207; }
+
+  /* Footer */
+  .site-footer {
+    background: var(--primary);
+    color: rgba(255,255,255,0.7);
+    text-align: center;
+    padding: 32px 24px;
+    font-size: 0.82rem;
+  }
+  .site-footer a { color: var(--accent-light); text-decoration: none; }
+  .site-footer a:hover { text-decoration: underline; }
+
+  /* Pagination */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 24px;
+    align-items: center;
+  }
+  .pagination button {
+    padding: 6px 14px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--card-bg);
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+  .pagination button:hover { border-color: var(--primary); color: var(--primary); }
+  .pagination button.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+  .pagination button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  /* About section */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  @media (max-width: 700px) {
+    .about-grid { grid-template-columns: 1fr; }
+    .header-stats { gap: 24px; }
+    .nav-tabs button { padding: 12px 16px; font-size: 0.82rem; }
+    #kb-grid { grid-template-columns: 1fr; }
+    .grid-2 { grid-template-columns: 1fr; }
+  }
+
+  /* KB detail modal */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+  }
+  .modal-overlay.show { display: flex; }
+  .modal {
+    background: var(--card-bg);
+    border-radius: 16px;
+    max-width: 640px;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: auto;
+    padding: 32px;
+    position: relative;
+  }
+  .modal-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: var(--bg);
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-head { font-size: 1.1rem; font-weight: 700; color: var(--primary); margin-bottom: 8px; }
+  .modal-relation { color: var(--accent); font-size: 0.9rem; font-weight: 600; margin-bottom: 12px; }
+  .modal-tail { font-size: 0.95rem; color: var(--text); margin-bottom: 16px; line-height: 1.7; }
+  .modal-meta {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="site-header">
+  <div class="badge-row">
+    <span class="badge">v1.4.0</span>
+    <span class="badge">CC BY-NC-SA 4.0</span>
+    <span class="badge">2026-05-08 更新</span>
+  </div>
+  <h1>喂养不耐受（FI）症状知识库</h1>
+  <p class="subtitle">
+    Feeding Intolerance 是重症监护、外科营养和肿瘤学交叉的核心临床综合征。
+    本知识库系统整理FI的定义诊断、危险因素、生物标志物、营养管理策略及最新指南推荐，
+    为医疗AI应用和临床决策提供结构化知识支撑。
+  </p>
+  <div class="header-stats">
+    <div class="header-stat">
+      <strong>400</strong>
+      <span>知识三元组</span>
+    </div>
+    <div class="header-stat">
+      <strong>15</strong>
+      <span>知识域覆盖</span>
+    </div>
+    <div class="header-stat">
+      <strong>4</strong>
+      <span>人群分类</span>
+    </div>
+    <div class="header-stat">
+      <strong>12</strong>
+      <span>文献批次</span>
+    </div>
+  </div>
+</header>
+
+<!-- Navigation -->
+<nav class="nav-tabs">
+  <button class="active" data-tab="overview">概览</button>
+  <button data-tab="knowledge">知识浏览</button>
+  <button data-tab="domains">知识域分析</button>
+  <button data-tab="population">人群分布</button>
+  <button data-tab="sources">文献来源</button>
+  <button data-tab="about">关于本库</button>
+</nav>
+
+<!-- Tab: Overview -->
+<div id="overview" class="section active">
+  <h2 class="section-title"><span class="icon">📊</span> 数据总览</h2>
+  <div class="grid-3">
+    <div class="stat-box">
+      <div class="number">400</div>
+      <div class="label">知识三元组总数</div>
+    </div>
+    <div class="stat-box">
+      <div class="number">15</div>
+      <div class="label">覆盖临床知识域</div>
+    </div>
+    <div class="stat-box">
+      <div class="number">12</div>
+      <div class="label">文献批次来源</div>
+    </div>
+  </div>
+
+  <h2 class="section-title" style="margin-top:40px;"><span class="icon">🔬</span> 核心内容摘要</h2>
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">📌 定义与诊断</div>
+      <ul style="padding-left:20px; font-size:0.9rem;">
+        <li><strong>ESPEN 2012</strong>标准：胃肠道功能紊乱导致EN无法满足机体需求</li>
+        <li><strong>Reintam评分</strong>（0-8分）：腹胀+呕吐+GRV+腹泻综合评估</li>
+        <li><strong>GRV阈值</strong>：传统≥200mL预警，新版指南强调综合判断</li>
+        <li><strong>FI分类</strong>：GI型（胃肠不耐受）、Sys型（全身不耐受）、混合型</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">🧬 关键生物标志物</div>
+      <ul style="padding-left:20px; font-size:0.9rem;">
+        <li>肠上皮损伤：<strong>I-FABP</strong>、<strong>L-FABP</strong>、<strong>DAO</strong></li>
+        <li>肠功能评估：<strong>瓜氨酸</strong>（Cit&lt;13μmol/L提示功能障碍）</li>
+        <li>肠屏障通透性：<strong>D-乳酸</strong>、<strong>zonulin</strong>、<strong>尿L/M比值</strong></li>
+        <li>炎症指标：<strong>IL-6</strong>、<strong>PCT</strong>、<strong>CRP</strong></li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">💊 一线管理策略</div>
+      <ul style="padding-left:20px; font-size:0.9rem;">
+        <li>不因低-中度GRV停止EN（<strong>ESPEN/ASPEN</strong>强烈推荐）</li>
+        <li>促动力药：<strong>红霉素</strong>（首选，≤7天）或甲氧氯普胺</li>
+        <li>幽门后喂养：GRV反复升高时转换<strong>鼻空肠管</strong></li>
+        <li>个体化EN配方：整蛋白→短肽→氨基酸逐步升级</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">📋 最新指南推荐</div>
+      <ul style="padding-left:20px; font-size:0.9rem;">
+        <li><strong>ESPEN 2023 EN指南</strong>：危重患者24-48h内启动EN</li>
+        <li><strong>ASPEN-SCCM 2022</strong>：GRV&gt;500mL才考虑暂停EN</li>
+        <li><strong>ERAS Society 2023</strong>：多模式围手术期策略减少术后FI</li>
+        <li><strong>CSPEN 2022</strong>：FI分级处置SOP</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Tab: Knowledge Browser -->
+<div id="knowledge" class="section">
+  <h2 class="section-title"><span class="icon">🔍</span> 知识浏览与检索</h2>
+  <div class="search-bar">
+    <input type="text" id="kb-search" placeholder="搜索知识三元组（输入关键词，如：GRV、红霉素、ESPEN、I-FABP...）">
+  </div>
+  <div class="filter-row">
+    <label>知识域：</label>
+    <select id="filter-domain">
+      <option value="">全部</option>
+    </select>
+    <label>人群：</label>
+    <select id="filter-pop">
+      <option value="">全部</option>
+      <option value="adult">成人</option>
+      <option value="neonatal">新生儿/早产儿</option>
+      <option value="pediatric">儿科</option>
+      <option value="all">通用</option>
+    </select>
+    <label>证据等级：</label>
+    <select id="filter-evidence">
+      <option value="">全部</option>
+      <option value="I级">I级</option>
+      <option value="II级">II级</option>
+      <option value="I级专家共识">I级专家共识</option>
+      <option value="专家共识">专家共识</option>
+    </select>
+  </div>
+  <div class="result-count" id="result-count"></div>
+  <div id="kb-grid"></div>
+  <div class="pagination" id="pagination"></div>
+</div>
+
+<!-- Tab: Domains -->
+<div id="domains" class="section">
+  <h2 class="section-title"><span class="icon">📊</span> 知识域分布</h2>
+  <div id="domain-chart" class="domain-bar-list" style="margin-bottom:40px;"></div>
+
+  <h2 class="section-title"><span class="icon">📋</span> 证据等级分布</h2>
+  <div class="card">
+    <table class="evidence-table" id="evidence-table">
+      <thead>
+        <tr>
+          <th>证据等级</th>
+          <th>数量</th>
+          <th>占比</th>
+          <th>说明</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Tab: Population -->
+<div id="population" class="section">
+  <h2 class="section-title"><span class="icon">👥</span> 人群分布概览</h2>
+  <div class="pop-grid" id="pop-grid"></div>
+
+  <h2 class="section-title" style="margin-top:40px;"><span class="icon">📖</span> 各人群覆盖内容</h2>
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">🦸 成人（Adult）— 266条</div>
+      <p style="font-size:0.88rem; color:var(--text-light);">覆盖ICU成人患者、外科术后（食管癌/胃癌/胰十二指肠切除）、肿瘤化疗、老年患者等场景。涵盖ESPEN/ASPEN/SCCM国际指南及CSCO/CSPEN中国指南。</p>
+    </div>
+    <div class="card">
+      <div class="card-title">👶 新生儿/早产儿（Neonatal）— 45条</div>
+      <p style="font-size:0.88rem; color:var(--text-light);">覆盖NEC相关FI、早产儿喂养不耐受诊断标准（VON准则）、肠道成熟度评估指标（乳糖酶活性、肠内营养耐受评分ENAS）。</p>
+    </div>
+    <div class="card">
+      <div class="card-title">🧒 儿科（Pediatric）— 7条</div>
+      <p style="font-size:0.88rem; color:var(--text-light);">覆盖儿童（1月-18岁）FI危险因素、营养需求特点及管理策略。</p>
+    </div>
+    <div class="card">
+      <div class="card-title">🌐 通用（All）— 82条</div>
+      <p style="font-size:0.88rem; color:var(--text-light);">跨人群适用知识，包括I-FABP、瓜氨酸、DAO等生物标志物定义，ESPEN/ASPEN指南基本原则，促动力药药理学知识。</p>
+    </div>
+  </div>
+</div>
+
+<!-- Tab: Sources -->
+<div id="sources" class="section">
+  <h2 class="section-title"><span class="icon">📚</span> 文献来源</h2>
+  <div class="source-list" id="source-list"></div>
+</div>
+
+<!-- Tab: About -->
+<div id="about" class="section">
+  <h2 class="section-title"><span class="icon">ℹ️</span> 关于本知识库</h2>
+  <div class="about-grid">
+    <div class="card">
+      <div class="card-title">🎯 建设目标</div>
+      <ul style="padding-left:20px; font-size:0.88rem; color:var(--text);">
+        <li>📚 系统整合FI领域分散的指南、文献与专家共识</li>
+        <li>🤖 为RAG-LLM医疗问答系统提供结构化知识支撑</li>
+        <li>🔬 梳理FI研究空白与前沿方向，促进科研协作</li>
+        <li>🏥 支持临床决策与医学教育</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">🔧 技术架构</div>
+      <ul style="padding-left:20px; font-size:0.88rem; color:var(--text);">
+        <li>📐 知识表示：<strong>三元组</strong>（head-relation-tail）</li>
+        <li>🗂️ 知识域：15个临床相关知识域</li>
+        <li>👥 人群分层：成人/新生儿/儿科/通用四类</li>
+        <li>📊 证据分级：I级/II级/专家共识</li>
+        <li>💾 开放格式：JSON，可直接对接向量数据库（RAG）</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">🔄 更新规范</div>
+      <ul style="padding-left:20px; font-size:0.88rem; color:var(--text);">
+        <li>📅 前瞻性增量更新，不回头补旧</li>
+        <li>📦 批次命名：<code>literature_batch_YYYYMMDD_主题.json</code></li>
+        <li>🔒 已入库源文件永久冻结</li>
+        <li>🏷️ 版本语义化递增（SemVer）</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">📄 许可证与引用</div>
+      <p style="font-size:0.88rem; color:var(--text-light); margin-bottom:12px;">内容数据采用 <strong>CC BY-NC-SA 4.0</strong> 许可证。代码脚本采用 <strong>MIT License</strong>。</p>
+      <div style="background:var(--bg); border-radius:8px; padding:12px; font-family:monospace; font-size:0.78rem; color:var(--text); line-height:1.8;">
+        胖子. 喂养不耐受（Feeding Intolerance）症状知识库 v1.4.0.<br>
+        GitHub: github.com/lockwang127/feeding-intolerance-symptom-kb<br>
+        更新日期: 2026-05-08
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" id="modal">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div class="modal-head" id="modal-head"></div>
+    <div class="modal-relation" id="modal-relation"></div>
+    <div class="modal-tail" id="modal-tail"></div>
+    <div class="modal-meta" id="modal-meta"></div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="site-footer">
+  <p>喂养不耐受（FI）症状知识库 v1.4.0 &nbsp;|&nbsp; CC BY-NC-SA 4.0 &nbsp;|&nbsp; GitHub: <a href="https://github.com/lockwang127/feeding-intolerance-symptom-kb" target="_blank">lockwang127/feeding-intolerance-symptom-kb</a></p>
+  <p style="margin-top:8px;">本知识库内容仅供学术研究和公益医学知识共享，不构成临床诊疗建议</p>
+</footer>
+
+<script>
+const PAGE_SIZE = 48;
+let kbData = [];
+let currentPage = 1;
+let filteredData = [];
+
+const popLabels = { adult: '🦸 成人', neonatal: '👶 新生儿/早产儿', pediatric: '🧒 儿科', all: '🌐 通用' };
+const popIcons  = { adult: '🦸', neonatal: '👶', pediatric: '🧒', all: '🌐' };
+const popColors = { adult: '#1a56db', neonatal: '#d97706', pediatric: '#7c3aed', all: '#16a34a' };
+
+// Load KB data
+(async function() {
+  try {
+    const res = await fetch('data/kb.json');
+    kbData = await res.json();
+    filteredData = [...kbData];
+    initKnowledgeBrowser();
+    initDomainChart();
+    initEvidenceTable();
+    initPopulationGrid();
+    initSourceList();
+  } catch(e) {
+    document.getElementById('kb-grid').innerHTML = '<p style="color:red;padding:20px;">数据加载失败，请确保在服务器上访问，或在本地运行 HTTP 服务器。</p>';
+  }
+})();
+
+// Tab navigation
+document.querySelectorAll('.nav-tabs button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tabs button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.getElementById(btn.dataset.tab).classList.add('active');
+  });
+});
+
+// Knowledge browser
+function initKnowledgeBrowser() {
+  const domains = [...new Set(kbData.map(d => d.domain))].sort();
+  const domainSelect = document.getElementById('filter-domain');
+  domains.forEach(d => domainSelect.add(new Option(d, d)));
+
+  const searchInput = document.getElementById('kb-search');
+  const debounce = (fn, delay) => {
+    let timer;
+    return (...args) => { clearTimeout(timer); timer = setTimeout(() => fn(...args), delay); };
+  };
+
+  const doFilter = debounce(() => {
+    currentPage = 1;
+    renderKB();
+  }, 200);
+
+  searchInput.addEventListener('input', doFilter);
+  document.getElementById('filter-domain').addEventListener('change', doFilter);
+  document.getElementById('filter-pop').addEventListener('change', doFilter);
+  document.getElementById('filter-evidence').addEventListener('change', doFilter);
+
+  renderKB();
+}
+
+function getFiltered() {
+  const kw = document.getElementById('kb-search').value.trim().toLowerCase();
+  const domain = document.getElementById('filter-domain').value;
+  const pop = document.getElementById('filter-pop').value;
+  const evidence = document.getElementById('filter-evidence').value;
+
+  return kbData.filter(item => {
+    if (kw && !(`${item.head} ${item.relation} ${item.tail} ${item.source || ''} ${item.domain || ''}`).toLowerCase().includes(kw)) return false;
+    if (domain && item.domain !== domain) return false;
+    if (pop && item.population !== pop) return false;
+    if (evidence && item.evidence !== evidence) return false;
+    return true;
+  });
+}
+
+function renderKB() {
+  filteredData = getFiltered();
+  document.getElementById('result-count').textContent =
+    `共 ${filteredData.length} 条知识三元组，${Math.ceil(filteredData.length / PAGE_SIZE)} 页`;
+
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page = filteredData.slice(start, start + PAGE_SIZE);
+
+  const grid = document.getElementById('kb-grid');
+  grid.innerHTML = page.map(item => `
+    <div class="kb-card" onclick="openModal(${kbData.indexOf(item)})">
+      <div class="head">${item.head}</div>
+      <div class="relation">${item.relation}</div>
+      <div class="tail">${item.tail}</div>
+      <div class="meta">
+        <span class="tag domain">${item.domain || ''}</span>
+        <span class="tag evidence ${item.evidence || ''}">${item.evidence || ''}</span>
+        <span class="tag pop">${popLabels[item.population] || item.population || ''}</span>
+      </div>
+    </div>
+  `).join('');
+
+  renderPagination();
+}
+
+function renderPagination() {
+  const total = Math.ceil(filteredData.length / PAGE_SIZE);
+  const pag = document.getElementById('pagination');
+  if (total <= 1) { pag.innerHTML = ''; return; }
+
+  let html = `<button ${currentPage === 1 ? 'disabled' : ''} onclick="goPage(${currentPage - 1})">上一页</button>`;
+
+  const range = [];
+  for (let i = 1; i <= total; i++) {
+    if (i === 1 || i === total || (i >= currentPage - 2 && i <= currentPage + 2)) range.push(i);
+  }
+  let last = 0;
+  range.forEach(i => {
+    if (i - last > 1) html += `<span style="padding:0 4px;color:var(--text-light);">…</span>`;
+    html += `<button class="${i === currentPage ? 'active' : ''}" onclick="goPage(${i})">${i}</button>`;
+    last = i;
+  });
+
+  html += `<button ${currentPage === total ? 'disabled' : ''} onclick="goPage(${currentPage + 1})">下一页</button>`;
+  pag.innerHTML = html;
+}
+
+function goPage(p) {
+  currentPage = p;
+  renderKB();
+  document.getElementById('knowledge').scrollIntoView({ behavior: 'smooth' });
+}
+
+// Modal
+function openModal(idx) {
+  const item = kbData[idx];
+  document.getElementById('modal-head').textContent = item.head;
+  document.getElementById('modal-relation').textContent = item.relation;
+  document.getElementById('modal-tail').textContent = item.tail;
+  document.getElementById('modal-meta').innerHTML = `
+    <span class="tag domain">${item.domain || ''}</span>
+    <span class="tag evidence">${item.evidence || ''}</span>
+    <span class="tag pop">${popLabels[item.population] || item.population || ''}</span>
+    ${item.source ? `<span class="tag" style="background:#f0fdf4;color:#16a34a;">📖 ${item.source}</span>` : ''}
+  `;
+  document.getElementById('modal-overlay').classList.add('show');
+}
+
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('show');
+}
+
+document.getElementById('modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// Domain chart
+function initDomainChart() {
+  const counts = {};
+  kbData.forEach(d => { counts[d.domain] = (counts[d.domain] || 0) + 1; });
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const max = sorted[0][1];
+  const colors = ['#1a3c5e','#2a5f8a','#e67e22','#27ae60','#8e44ad','#16a085','#c0392b','#2980b9','#f39c12','#1abc9c','#9b59b6','#e74c3c','#3498db','#2ecc71','#e67e22'];
+  const container = document.getElementById('domain-chart');
+  container.innerHTML = sorted.map(([domain, count], i) => {
+    const pct = ((count / max) * 100).toFixed(1);
+    const pctLabel = ((count / kbData.length) * 100).toFixed(1);
+    return `
+      <div class="domain-bar-item">
+        <span class="domain-bar-label">${domain}</span>
+        <div class="domain-bar-track">
+          <div class="domain-bar-fill count" style="width:${pct}%; background:${colors[i % colors.length]};">${count}条 (${pctLabel}%)</div>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+// Evidence table
+function initEvidenceTable() {
+  const counts = {};
+  kbData.forEach(d => { counts[d.evidence] = (counts[d.evidence] || 0) + 1; });
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const labels = { 'I级': '大样本RCT/系统评价/Meta分析', 'II级': '队列研究、病例对照', 'I级专家共识': '权威指南强烈推荐（A类）', '专家共识': '专家意见/中文指南' };
+  document.querySelector('#evidence-table tbody').innerHTML = sorted.map(([ev, count]) =>
+    `<tr><td><span class="evidence-badge ${ev}">${ev}</span></td><td><strong>${count}</strong></td><td>${((count/kbData.length)*100).toFixed(1)}%</td><td>${labels[ev] || ''}</td></tr>`
+  ).join('');
+}
+
+// Population grid
+function initPopulationGrid() {
+  const counts = { adult: 266, neonatal: 45, pediatric: 7, all: 82 };
+  const total = kbData.length;
+  const container = document.getElementById('pop-grid');
+  container.innerHTML = Object.entries(counts).map(([pop, count]) =>
+    `<div class="pop-card">
+      <div class="icon">${popIcons[pop]}</div>
+      <div class="count">${count}</div>
+      <div class="label">${popLabels[pop]}</div>
+      <div class="pct">${((count/total)*100).toFixed(1)}%</div>
+    </div>`
+  ).join('');
+}
+
+// Source list
+function initSourceList() {
+  const counts = {};
+  kbData.forEach(d => { if (d.source) counts[d.source] = (counts[d.source] || 0) + 1; });
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const icons = { 'ESPEN': '🇪🇺', 'ASPEN': '🇺🇸', 'CSCO': '🇨🇳', 'CSPEN': '🇨🇳', 'ERAS': '🔬', 'NCCN': '🇺🇸', 'SCCM': '🏥', 'VON': '👶', '共识': '🇨🇳', '指南': '📋' };
+  document.getElementById('source-list').innerHTML = sorted.slice(0, 20).map(([src, count]) => {
+    const icon = Object.keys(icons).find(k => src.includes(k)) || '📖';
+    return `<div class="source-item">
+      <span class="icon">${icons[icon] || '📖'}</span>
+      <div>
+        <div class="name">${src}</div>
+        <div class="desc">${count}条知识条目</div>
+      </div>
+      <span class="count-badge">${count}</span>
+    </div>`;
+  }).join('');
+}
+</script>
+</body>
+</html>

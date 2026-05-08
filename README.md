@@ -176,7 +176,7 @@ print(f"✅ 已入库 {len(kb)} 条FI知识三元组")
 ## 引用本知识库
 
 ```
-汪晓东. 喂养不耐受（Feeding Intolerance）症状知识库 v1.0.0.
+胖子. 喂养不耐受（Feeding Intolerance）症状知识库 v1.4.0.
 GitHub: https://github.com/lockwang127/feeding-intolerance-symptom-kb
 更新日期: 2026-05-08
 访问日期: [请填写]
@@ -184,4 +184,4 @@ GitHub: https://github.com/lockwang127/feeding-intolerance-symptom-kb
 
 ---
 
-*本知识库由汪晓东（四川大学华西医院胃肠外科）构建维护，2026-05-08 初始化。*
+*本知识库由胖子构建维护，2026-05-08 初始化。*
