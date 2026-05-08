@@ -7,8 +7,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -18,8 +17,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -29,8 +27,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GRV阈值",
@@ -40,8 +37,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GRV",
@@ -51,8 +47,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -62,8 +57,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃残余量",
@@ -73,8 +67,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠鸣音减弱",
@@ -84,8 +77,7 @@
     "evidence": "专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹内压升高",
@@ -95,8 +87,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹腔间隔室综合征",
@@ -106,8 +97,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -117,8 +107,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ICU相关性腹泻",
@@ -128,8 +117,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -139,8 +127,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部X线检查",
@@ -150,8 +137,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -161,8 +147,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部手术",
@@ -172,8 +157,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "上消化道手术",
@@ -183,8 +167,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胰十二指肠切除术",
@@ -194,8 +177,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ICU患者",
@@ -205,8 +187,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "血管活性药物",
@@ -216,8 +197,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "镇静镇痛",
@@ -227,8 +207,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "低白蛋白血症",
@@ -238,8 +217,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "高龄",
@@ -249,8 +227,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "脓毒症",
@@ -260,8 +237,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹腔感染",
@@ -271,8 +247,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "机械通气",
@@ -282,8 +257,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "俯卧位通气",
@@ -293,8 +267,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "电解质紊乱",
@@ -304,8 +277,7 @@
     "evidence": "专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "全肠外营养",
@@ -315,8 +287,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "术前营养不良",
@@ -326,8 +297,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "急诊手术",
@@ -337,8 +307,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "手术时长",
@@ -348,8 +317,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "吻合口漏",
@@ -359,8 +327,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胰腺术后",
@@ -370,8 +337,7 @@
     "evidence": "II级",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "放疗",
@@ -381,8 +347,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "化疗",
@@ -392,8 +357,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "糖尿病",
@@ -403,8 +367,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "口服营养补充剂",
@@ -414,8 +377,7 @@
     "evidence": "I级专家共识",
     "domain": "危险因素",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "I-FABP",
@@ -425,8 +387,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "L-FABP",
@@ -436,8 +397,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "瓜氨酸",
@@ -447,8 +407,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "瓜氨酸",
@@ -458,8 +417,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "D-乳酸",
@@ -469,8 +427,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "二胺氧化酶",
@@ -480,8 +437,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "zonulin",
@@ -491,8 +447,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "CRP",
@@ -502,8 +457,7 @@
     "evidence": "I级专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "乳酸",
@@ -513,8 +467,7 @@
     "evidence": "I级专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃肠道CLDN18.2",
@@ -524,8 +477,7 @@
     "evidence": "专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "粪便钙卫蛋白",
@@ -535,8 +487,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "尿乳果糖/甘露醇比值",
@@ -546,8 +497,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GLP-2",
@@ -557,8 +507,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "IL-6",
@@ -568,8 +517,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "降钙素原",
@@ -579,8 +527,7 @@
     "evidence": "I级专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "白蛋白",
@@ -590,8 +537,7 @@
     "evidence": "I级专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "前白蛋白",
@@ -601,8 +547,7 @@
     "evidence": "I级专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "粪便短链脂肪酸",
@@ -612,8 +557,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN启动时机",
@@ -623,8 +567,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN首日剂量",
@@ -634,8 +577,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN启动原则",
@@ -645,8 +587,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "促胃动力药",
@@ -656,8 +597,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "红霉素",
@@ -667,8 +607,7 @@
     "evidence": "I级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "甲氧氯普胺",
@@ -678,8 +617,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃复安",
@@ -689,8 +627,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "西甲硅油",
@@ -700,8 +637,7 @@
     "evidence": "专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN制剂渗透压",
@@ -711,8 +647,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "整蛋白配方",
@@ -722,8 +657,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "短肽配方",
@@ -733,8 +667,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "氨基酸配方",
@@ -744,8 +677,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN不耐受",
@@ -755,8 +687,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "幽门后喂养",
@@ -766,8 +697,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "空肠造口",
@@ -777,8 +707,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "TPN补充",
@@ -788,8 +717,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "SPN启动时机",
@@ -799,8 +727,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "滋养型喂养",
@@ -810,8 +737,7 @@
     "evidence": "I级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN喂养速率递增",
@@ -821,8 +747,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "卧位管理",
@@ -832,8 +757,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部理疗",
@@ -843,8 +767,7 @@
     "evidence": "专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "益生菌",
@@ -854,8 +777,7 @@
     "evidence": "II级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "膳食纤维",
@@ -865,8 +787,7 @@
     "evidence": "II级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "膳食纤维",
@@ -876,8 +797,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN泵使用",
@@ -887,8 +807,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN中断最小化",
@@ -898,8 +817,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "电解质纠正",
@@ -909,8 +827,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "液体管理",
@@ -920,8 +837,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -931,8 +847,7 @@
     "evidence": "II级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -942,8 +857,7 @@
     "evidence": "II级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -953,8 +867,7 @@
     "evidence": "II级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -964,8 +877,7 @@
     "evidence": "II级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -975,8 +887,7 @@
     "evidence": "I级专家共识",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -986,8 +897,7 @@
     "evidence": "I级专家共识",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN达标率",
@@ -997,8 +907,7 @@
     "evidence": "I级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -1008,8 +917,7 @@
     "evidence": "I级专家共识",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -1019,8 +927,7 @@
     "evidence": "II级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -1030,8 +937,7 @@
     "evidence": "I级专家共识",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "迟发FI",
@@ -1041,8 +947,7 @@
     "evidence": "II级",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI",
@@ -1052,8 +957,7 @@
     "evidence": "I级专家共识",
     "domain": "临床结局",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ICU患者",
@@ -1063,8 +967,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "机械通气患者",
@@ -1074,8 +977,7 @@
     "evidence": "II级",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "脓毒性休克患者",
@@ -1085,8 +987,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部创伤",
@@ -1096,8 +997,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "食管癌术后",
@@ -1107,8 +1007,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "全胃切除",
@@ -1118,8 +1017,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胰十二指肠切除",
@@ -1129,8 +1027,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "结直肠手术",
@@ -1140,8 +1037,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ICU儿童",
@@ -1151,8 +1047,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "老年患者",
@@ -1162,8 +1057,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肝衰竭患者",
@@ -1173,8 +1067,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肾衰竭患者",
@@ -1184,8 +1077,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "COVID-19重症",
@@ -1195,8 +1087,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ECMO患者",
@@ -1206,8 +1097,7 @@
     "evidence": "II级",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部大手术",
@@ -1217,8 +1107,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养不良患者",
@@ -1228,8 +1117,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "恶液质患者",
@@ -1239,8 +1127,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "短肠综合征",
@@ -1250,8 +1137,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "克罗恩病",
@@ -1261,8 +1147,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "急性胰腺炎",
@@ -1272,8 +1157,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESPEN 2023 EN指南",
@@ -1283,8 +1167,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ASPEN-SCCM 2022",
@@ -1294,8 +1177,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ERAS Society 2023",
@@ -1305,8 +1187,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "中国肠内营养安全管控专家共识 2022",
@@ -1316,8 +1197,7 @@
     "evidence": "专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESPEN 2023 PN指南",
@@ -1327,8 +1207,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "SCCM 2022",
@@ -1338,8 +1217,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GLIM 2018",
@@ -1349,8 +1227,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "IAP/APA 2022 急性胰腺炎指南",
@@ -1360,8 +1237,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESPNIC 2022",
@@ -1371,8 +1247,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "pediatric"
+    "update_date": "2026-05-08"
   },
   {
     "head": "WSACS 2013",
@@ -1382,8 +1257,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "NICE 2022",
@@ -1393,8 +1267,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "中国外科营养指南 2023",
@@ -1404,8 +1277,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "CSPEN 2022",
@@ -1415,8 +1287,7 @@
     "evidence": "专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESPEN 2019 EN指南",
@@ -1426,8 +1297,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ERAS 2023结直肠指南",
@@ -1437,8 +1307,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ASPEN 2022",
@@ -1448,8 +1317,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESPEN恶液质指南 2023",
@@ -1459,8 +1327,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESMO 2023",
@@ -1470,8 +1337,7 @@
     "evidence": "I级专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ICUE-Nutrition Trial 2021",
@@ -1481,8 +1347,7 @@
     "evidence": "I级",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "NUTRICE Trial 2018",
@@ -1492,8 +1357,7 @@
     "evidence": "I级",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "REDUCE Trial 2016",
@@ -1503,8 +1367,7 @@
     "evidence": "I级",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "VETERAN Trial 2022",
@@ -1514,8 +1377,7 @@
     "evidence": "I级",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI监测频率",
@@ -1525,8 +1387,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GRV监测",
@@ -1536,8 +1397,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部体征评估",
@@ -1547,8 +1407,7 @@
     "evidence": "II级",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN耐受性评分",
@@ -1558,8 +1417,7 @@
     "evidence": "II级",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN达标率",
@@ -1569,8 +1427,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "氮平衡",
@@ -1580,8 +1437,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "间接测热法",
@@ -1591,8 +1447,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "呼吸商",
@@ -1602,8 +1457,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部超声",
@@ -1613,8 +1467,7 @@
     "evidence": "II级",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GRV超声评估",
@@ -1624,8 +1477,7 @@
     "evidence": "II级",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养风险筛查",
@@ -1635,8 +1487,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "mPG-SGA",
@@ -1646,8 +1497,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "实验室监测",
@@ -1657,8 +1507,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "血糖监测",
@@ -1668,8 +1517,7 @@
     "evidence": "I级专家共识",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃内注气超声",
@@ -1679,8 +1527,7 @@
     "evidence": "II级",
     "domain": "监测与评估",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "误吸",
@@ -1690,8 +1537,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "误吸预防",
@@ -1701,8 +1547,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "VAP",
@@ -1712,8 +1557,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹泻",
@@ -1723,8 +1567,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN相关腹泻",
@@ -1734,8 +1577,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹胀",
@@ -1745,8 +1587,7 @@
     "evidence": "II级",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠鸣音消失",
@@ -1756,8 +1597,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠坏死",
@@ -1767,8 +1607,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "反流",
@@ -1778,8 +1617,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "呕吐",
@@ -1789,8 +1627,7 @@
     "evidence": "II级",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "细菌移位",
@@ -1800,8 +1637,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "SIRS/脓毒症",
@@ -1811,8 +1647,7 @@
     "evidence": "I级专家共识",
     "domain": "并发症处理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "NUTRIC评分",
@@ -1822,8 +1657,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "mNUTRIC",
@@ -1833,8 +1667,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "NRS-2002",
@@ -1844,8 +1677,7 @@
     "evidence": "I级专家共识",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "SOFA评分",
@@ -1855,8 +1687,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "APACHE II",
@@ -1866,8 +1697,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GLIM标准",
@@ -1877,8 +1707,7 @@
     "evidence": "I级专家共识",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "mPG-SGA",
@@ -1888,8 +1717,7 @@
     "evidence": "I级专家共识",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "PNI",
@@ -1899,8 +1727,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI康复",
@@ -1910,8 +1737,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "术后EN耐受恢复",
@@ -1921,8 +1747,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "运动康复",
@@ -1932,8 +1757,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "经口进食过渡",
@@ -1943,8 +1767,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "口服进食评估",
@@ -1954,8 +1777,7 @@
     "evidence": "II级",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "言语语言病理学",
@@ -1965,8 +1787,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "出院后营养管理",
@@ -1976,8 +1797,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "家庭肠内营养",
@@ -1987,8 +1807,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "HEN患者",
@@ -1998,8 +1817,7 @@
     "evidence": "I级专家共识",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养师随访",
@@ -2009,8 +1827,7 @@
     "evidence": "II级",
     "domain": "康复与长期管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "食管癌Ivor-Lewis术后",
@@ -2020,8 +1837,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "全胃切除术后",
@@ -2031,8 +1847,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃癌D2根治术后",
@@ -2042,8 +1857,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃癌术后",
@@ -2053,8 +1867,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胰头癌术后",
@@ -2064,8 +1877,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "壶腹周围癌术后",
@@ -2075,8 +1887,7 @@
     "evidence": "I级",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肝癌肝切除术后",
@@ -2086,8 +1897,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃肠肿瘤术后",
@@ -2097,8 +1907,7 @@
     "evidence": "I级",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "放化疗期间",
@@ -2108,8 +1917,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肿瘤患者恶液质",
@@ -2119,8 +1927,7 @@
     "evidence": "I级",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "SBRT/射频消融后",
@@ -2130,8 +1937,7 @@
     "evidence": "I级专家共识",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹腔热灌注化疗",
@@ -2141,8 +1947,7 @@
     "evidence": "II级",
     "domain": "肿瘤术后管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养支持小组",
@@ -2152,8 +1957,7 @@
     "evidence": "I级专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI流程管理",
@@ -2163,8 +1967,7 @@
     "evidence": "专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "每日EN目标核查",
@@ -2174,8 +1977,7 @@
     "evidence": "I级专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "电子营养处方系统",
@@ -2185,8 +1987,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养护士",
@@ -2196,8 +1997,7 @@
     "evidence": "I级专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养药剂师",
@@ -2207,8 +2007,7 @@
     "evidence": "I级专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ERAS多学科团队",
@@ -2218,8 +2017,7 @@
     "evidence": "I级专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI发生率基准",
@@ -2229,8 +2027,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN达标率基准",
@@ -2240,8 +2037,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养质量改进项目",
@@ -2251,8 +2047,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "床旁超声",
@@ -2262,8 +2057,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "电阻抗断层成像",
@@ -2273,8 +2067,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GLP-2类似物",
@@ -2284,8 +2077,7 @@
     "evidence": "I级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃电刺激",
@@ -2295,8 +2087,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "针灸",
@@ -2306,8 +2097,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "微生物组干预",
@@ -2317,8 +2107,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ω-3脂肪酸",
@@ -2328,8 +2117,7 @@
     "evidence": "I级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "谷氨酰胺",
@@ -2339,8 +2127,7 @@
     "evidence": "I级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "英夫利西单抗",
@@ -2350,8 +2137,7 @@
     "evidence": "I级专家共识",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "生物反馈治疗",
@@ -2361,8 +2147,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ASPEN证据分级",
@@ -2372,8 +2157,7 @@
     "evidence": "I级专家共识",
     "domain": "证据体系",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "GRADE系统",
@@ -2383,8 +2167,7 @@
     "evidence": "I级专家共识",
     "domain": "证据体系",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ESPEN指南证据等级",
@@ -2394,8 +2177,7 @@
     "evidence": "I级专家共识",
     "domain": "证据体系",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "共识形成方法",
@@ -2405,8 +2187,7 @@
     "evidence": "I级专家共识",
     "domain": "证据体系",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "主要数据来源",
@@ -2417,8 +2198,7 @@
     "domain": "证据体系",
     "confidence": 0.85,
     "update_date": "2026-05-08",
-    "pmid": "0.9",
-    "population": "adult"
+    "pmid": "0.9"
   },
   {
     "head": "喂养不耐受评估",
@@ -2429,8 +2209,7 @@
     "domain": "评估方式",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "38654189",
-    "population": "all"
+    "pmid": "38654189"
   },
   {
     "head": "胃残余量",
@@ -2440,8 +2219,7 @@
     "evidence": "I级",
     "domain": "评估方式",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹围监测",
@@ -2451,8 +2229,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部X线检查",
@@ -2462,8 +2239,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "血常规",
@@ -2474,8 +2250,7 @@
     "domain": "评估方式",
     "confidence": 0.85,
     "update_date": "2026-05-08",
-    "pmid": "39381698",
-    "population": "pediatric"
+    "pmid": "39381698"
   },
   {
     "head": "喂养不耐受",
@@ -2486,8 +2261,7 @@
     "domain": "评估方式",
     "confidence": 0.8,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "all"
+    "pmid": "39739912"
   },
   {
     "head": "早产儿喂养不耐受评估",
@@ -2497,8 +2271,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部超声",
@@ -2508,8 +2281,7 @@
     "evidence": "II级",
     "domain": "评估方式",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "无创正压通气早产儿喂养不耐受",
@@ -2519,8 +2291,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "无创正压通气早产儿",
@@ -2530,8 +2301,7 @@
     "evidence": "I级",
     "domain": "定义与诊断",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿出院后喂养",
@@ -2541,8 +2311,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿出院后喂养",
@@ -2552,8 +2321,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿出院后",
@@ -2563,8 +2331,7 @@
     "evidence": "I级专家共识",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿精细化管理",
@@ -2574,8 +2341,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2585,8 +2351,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2596,8 +2361,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养能力",
@@ -2607,8 +2371,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2618,8 +2381,7 @@
     "evidence": "I级专家共识",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2629,8 +2391,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2640,8 +2401,7 @@
     "evidence": "I级专家共识",
     "domain": "评估方式",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2651,8 +2411,7 @@
     "evidence": "I级专家共识",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿经口喂养",
@@ -2662,8 +2421,7 @@
     "evidence": "I级专家共识",
     "domain": "干预后效果",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -2674,8 +2432,7 @@
     "domain": "定义与诊断",
     "confidence": 0.95,
     "update_date": "2026-05-08",
-    "pmid": "38654189",
-    "population": "pediatric"
+    "pmid": "38654189"
   },
   {
     "head": "喂养不耐受",
@@ -2686,8 +2443,7 @@
     "domain": "定义与诊断",
     "confidence": 0.95,
     "update_date": "2026-05-08",
-    "pmid": "38654189",
-    "population": "adult"
+    "pmid": "38654189"
   },
   {
     "head": "喂养不耐受",
@@ -2698,8 +2454,7 @@
     "domain": "定义与诊断",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "36042784",
-    "population": "pediatric"
+    "pmid": "36042784"
   },
   {
     "head": "喂养不耐受",
@@ -2710,8 +2465,7 @@
     "domain": "定义与诊断",
     "confidence": 0.85,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "neonatal"
+    "pmid": "39739912"
   },
   {
     "head": "喂养不耐受",
@@ -2722,8 +2476,7 @@
     "domain": "定义与诊断",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "39381698",
-    "population": "neonatal"
+    "pmid": "39381698"
   },
   {
     "head": "喂养障碍",
@@ -2733,8 +2486,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "pediatric"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿喂养不耐受",
@@ -2744,8 +2496,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -2756,8 +2507,257 @@
     "domain": "定义与诊断",
     "confidence": 0.95,
     "update_date": "2026-05-08",
-    "pmid": "39381698",
-    "population": "pediatric"
+    "pmid": "39381698"
+  },
+  {
+    "head": "围手术期营养支持",
+    "relation": "指南更新",
+    "tail": "ESPEN临床营养外科指南2025更新，整合ERAS理念，覆盖所有大型腹部手术",
+    "source": "ESPEN Guideline on Clinical Nutrition in Surgery Update 2025",
+    "evidence": "I级",
+    "domain": "指南推荐",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "大型腹部手术",
+    "relation": "术前营养评估",
+    "tail": "所有大型腹部手术患者术前均应进行营养风险筛查（NRS 2002）",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "营养不良患者",
+    "relation": "术前营养治疗",
+    "tail": "NRS 2002≥3分或PG-SGA≥4分，术前给予7-14天肠内/肠外营养支持",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术后营养支持",
+    "relation": "启动时机",
+    "tail": "术后24h内启动肠内营养，除非存在休克、肠梗阻、肠缺血等禁忌",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术后肠内营养",
+    "relation": "目标能量",
+    "tail": "术后能量需求25-30kcal/kg/d，蛋白质1.2-1.5g/kg/d",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠内营养不足",
+    "relation": "补充性肠外营养",
+    "tail": "肠内营养<60%目标需求>7天，应启动补充性肠外营养",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "ω-3脂肪酸",
+    "relation": "肠外营养添加",
+    "tail": "肠内营养不足需肠外营养时，推荐添加ω-3脂肪酸以改善临床结局",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术后免疫营养",
+    "relation": "指征",
+    "tail": "上消化道恶性肿瘤根治术后，可考虑含谷氨酰胺、精氨酸、核苷酸的免疫增强型肠内营养",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "II级",
+    "domain": "干预手段",
+    "confidence": 0.8,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃肠道术后",
+    "relation": "管饲途径选择",
+    "tail": "预计禁食>7天，首选鼻空肠管或经皮内镜下空肠造口（PEJ）",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "加速康复外科",
+    "relation": "营养管理",
+    "tail": "ERAS路径包括：术前避免禁食过久、术后早期经口进食、个体化营养目标",
+    "source": "ESPEN Surgery Guideline Update 2025 / ERAS Society 2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术后吻合口瘘",
+    "relation": "营养管理策略",
+    "tail": "稳定期可继续肠内营养（瘘口远端途径），急性期需肠外营养",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "并发症处理",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "术后肠梗阻",
+    "relation": "营养策略",
+    "tail": "排除完全性肠梗阻后，可尝试鼻空肠管置管进行远端肠内营养",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "并发症处理",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "老年外科患者",
+    "relation": "营养需求特点",
+    "tail": "能量需求25kcal/kg/d，蛋白质1.2-1.5g/kg/d，维生素D补充800-1000IU/d",
+    "source": "ESPEN Surgery Guideline Update 2025 / EuGMS 2024",
+    "evidence": "I级",
+    "domain": "营养管理",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部大手术",
+    "relation": "出院后营养随访",
+    "tail": "出院后1周、2周、1月门诊随访，评估营养状况并调整方案",
+    "source": "ESPEN Surgery Guideline Update 2025",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "多模式营养干预",
+    "relation": "胃癌围手术期效果",
+    "tail": "联合膳食教育、数字营养干预、个体化营养方案，可改善术后营养状况和免疫功能",
+    "source": "Frontiers in Nutrition 2025 Perioperative nutritional interventions",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后管饲肠内营养耐受性",
+    "relation": "最佳证据总结",
+    "tail": "EFI管理包括：喂养途径选择、喂养速率调整、腹泻管理、误吸预防",
+    "source": "中华医学杂志 胃癌患者术后管饲肠内营养耐受性管理最佳证据",
+    "evidence": "I级",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后肠内营养喂养不耐受",
+    "relation": "风险因素",
+    "tail": "高龄（>65岁）、全胃切除、术中出血>200ml、术后恶心呕吐",
+    "source": "胃癌术后EFI最佳证据总结",
+    "evidence": "I级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后早期经口进食",
+    "relation": "安全性与可行性",
+    "tail": "术后24-48h开始流质饮食，72h过渡到半流质，可缩短住院时间2-3天",
+    "source": "ESPEN Surgery Guideline Update 2025 / ScienceDirect 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后营养支持",
+    "relation": "推荐方案",
+    "tail": "术后24h内启动肠内营养，从10-20ml/h开始，根据耐受性逐日递增",
+    "source": "ESPEN Surgery Update 2025 / CSCO营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "全胃切除术后",
+    "relation": "喂养策略",
+    "tail": "空肠造口置管持续泵注，从10ml/h开始，术后第3天达目标量60%",
+    "source": "胃癌术后肠内营养专家共识",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后肠内营养",
+    "relation": "不耐受表现",
+    "tail": "腹胀、恶心、呕吐（>500ml/d）、腹泻（>3次/d）、胃残余量>200ml",
+    "source": "肿瘤患者肠内营养耐受不良专家共识 2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后营养不良",
+    "relation": "发生率",
+    "tail": "胃癌患者营养不良发生率高达40-60%，术后体重下降>10%占30%",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹腔镜全胃切除术后",
+    "relation": "早期经口进食",
+    "tail": "术后第1天开始清流质，第3天过渡到半流质，营养状况优于延迟进食",
+    "source": "ScienceDirect 2025 Early oral feeding gastric cancer",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后家庭肠内营养",
+    "relation": "最佳实践",
+    "tail": "出院后继续肠内营养2-4周，定期监测体重、白蛋白、前白蛋白",
+    "source": "PMC Home nutritional management gastric cancer 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌根治术后",
+    "relation": "营养随访指标",
+    "tail": "体重、BMI、去脂体重、前白蛋白、转铁蛋白、握力",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿肠内营养",
@@ -2767,8 +2767,7 @@
     "evidence": "I级",
     "domain": "定义与诊断",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿肠内营养",
@@ -2778,8 +2777,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿益生菌预防NEC",
@@ -2789,8 +2787,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿益生菌配方",
@@ -2800,8 +2797,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "早产儿益生菌",
@@ -2811,8 +2807,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "坏死性小肠结肠炎",
@@ -2823,8 +2818,7 @@
     "domain": "定义与诊断",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "41367217",
-    "population": "neonatal"
+    "pmid": "41367217"
   },
   {
     "head": "肠道菌群",
@@ -2835,8 +2829,7 @@
     "domain": "评估方式",
     "confidence": 0.85,
     "update_date": "2026-05-08",
-    "pmid": "41367217",
-    "population": "all"
+    "pmid": "41367217"
   },
   {
     "head": "极低出生体重儿喂养不耐受",
@@ -2847,8 +2840,7 @@
     "domain": "定义与诊断",
     "confidence": 0.85,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "neonatal"
+    "pmid": "39739912"
   },
   {
     "head": "极低出生体重儿喂养不耐受",
@@ -2859,8 +2851,7 @@
     "domain": "干预后效果",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "neonatal"
+    "pmid": "39739912"
   },
   {
     "head": "喂养不耐受预测模型",
@@ -2871,8 +2862,7 @@
     "domain": "评估方式",
     "confidence": 0.8,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "all"
+    "pmid": "39739912"
   },
   {
     "head": "益生菌",
@@ -2883,8 +2873,7 @@
     "domain": "干预手段",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "38287582",
-    "population": "neonatal"
+    "pmid": "38287582"
   },
   {
     "head": "红霉素",
@@ -2894,8 +2883,7 @@
     "evidence": "II级",
     "domain": "干预手段",
     "confidence": 0.8,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "非营养性吸吮",
@@ -2905,8 +2893,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "腹部按摩",
@@ -2916,8 +2903,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "鸟巢式护理",
@@ -2927,8 +2913,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "微量喂养",
@@ -2938,8 +2923,7 @@
     "evidence": "I级专家共识",
     "domain": "干预手段",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -2949,8 +2933,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "母乳",
@@ -2961,8 +2944,7 @@
     "domain": "干预手段",
     "confidence": 0.95,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "adult"
+    "pmid": "39739912"
   },
   {
     "head": "深度水解配方奶",
@@ -2972,8 +2954,7 @@
     "evidence": "I级",
     "domain": "干预手段",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃肠道激素",
@@ -2984,8 +2965,7 @@
     "domain": "干预手段",
     "confidence": 0.75,
     "update_date": "2026-05-08",
-    "pmid": "39381698",
-    "population": "neonatal"
+    "pmid": "39381698"
   },
   {
     "head": "肠内营养添加剂",
@@ -2995,8 +2975,7 @@
     "evidence": "II级",
     "domain": "干预手段",
     "confidence": 0.7,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "卧位管理",
@@ -3006,8 +2985,157 @@
     "evidence": "I级专家共识",
     "domain": "干预手段",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "恶性肿瘤患者营养治疗",
+    "relation": "指南来源",
+    "tail": "CSCO恶性肿瘤患者营养治疗指南2024/2025，中国临床肿瘤学会发布",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者营养风险筛查",
+    "relation": "推荐工具",
+    "tail": "NRS 2002评分≥3分提示营养风险，需进行营养干预",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者营养评估",
+    "relation": "PG-SGA量表",
+    "tail": "患者主观整体营养状况评估量表（PG-SGA）是肿瘤患者营养评估金标准",
+    "source": "CSCO/ESPEN肿瘤营养指南2024",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者肠内营养",
+    "relation": "适应证",
+    "tail": "NRS 2002≥3分、经口摄入不足（<60%需求>7天）、吞咽困难、消化道梗阻",
+    "source": "肿瘤患者肠内营养耐受不良专家共识2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者肠内营养喂养不耐受",
+    "relation": "定义",
+    "tail": "不能耐受肠内营养，出现腹胀、腹泻、恶心、呕吐、反流等症状，影响营养目标实现",
+    "source": "肿瘤患者肠内营养耐受不良专家共识2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者肠内营养",
+    "relation": "不耐受发生率",
+    "tail": "住院肿瘤患者肠内营养不耐受发生率15-40%",
+    "source": "肿瘤患者肠内营养耐受不良专家共识2023",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.85,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者肠内营养不耐受",
+    "relation": "风险因素",
+    "tail": "高龄、低白蛋白、腹水、腹腔感染、化疗相关性恶心呕吐（CINV）",
+    "source": "肿瘤患者肠内营养耐受不良专家共识2023",
+    "evidence": "I级专家共识",
+    "domain": "危险因素",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "化疗相关恶心呕吐",
+    "relation": "CINV分级",
+    "tail": "高危（致吐风险>90%）、中危（30-90%）、低危（10-30%）、极低危（<10%）",
+    "source": "CSCO抗肿瘤治疗相关恶心呕吐防治指南2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "化疗相关恶心呕吐",
+    "relation": "预防策略",
+    "tail": "高危：5-HT3受体拮抗剂+NK1受体拮抗剂+地塞米松三联方案",
+    "source": "CSCO抗肿瘤治疗相关恶心呕吐防治指南2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤恶病质",
+    "relation": "诊断标准",
+    "tail": "6个月内体重下降>5%，或BMI<20伴体重下降>2%，伴厌食、肌肉减少",
+    "source": "ESPEN/ACS恶病质定义共识",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤恶病质",
+    "relation": "营养干预",
+    "tail": "高蛋白、高能量密度肠内营养（1.5-2.0kcal/ml），联合食欲刺激剂",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者家庭肠内营养",
+    "relation": "护理专家共识",
+    "tail": "2024年版专家共识规范了家庭肠内营养的适应证、制剂选择、并发症管理",
+    "source": "肿瘤患者家庭肠内营养护理专家共识2024",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.95,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠内营养喂养不耐受",
+    "relation": "干预措施",
+    "tail": "降低输注速率、调整浓度、加用促动力药（甲氧氯普胺、红霉素）、改用空肠营养",
+    "source": "肿瘤患者肠内营养耐受不良专家共识2023",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者肠内营养腹泻",
+    "relation": "处理流程",
+    "tail": "排除感染后，降低输注速率/浓度，加用止泻药物，必要时转为肠外营养",
+    "source": "肿瘤患者肠内营养耐受不良专家共识2023",
+    "evidence": "I级专家共识",
+    "domain": "并发症处理",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肿瘤患者肠内营养胃残余量过多",
+    "relation": "处理原则",
+    "tail": "GRV>500ml/6h或>75%输注量，考虑减量或暂停，排查胃轻瘫/肠梗阻",
+    "source": "ESPEN/ASPEN肠内营养指南",
+    "evidence": "I级",
+    "domain": "并发症处理",
+    "confidence": 0.9,
+    "update_date": "2026-05-08"
   },
   {
     "head": "益生菌干预",
@@ -3018,8 +3146,7 @@
     "domain": "干预后效果",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "38287582",
-    "population": "neonatal"
+    "pmid": "38287582"
   },
   {
     "head": "益生菌干预",
@@ -3030,8 +3157,7 @@
     "domain": "干预后效果",
     "confidence": 0.95,
     "update_date": "2026-05-08",
-    "pmid": "38287582",
-    "population": "adult"
+    "pmid": "38287582"
   },
   {
     "head": "非药物干预综合方案",
@@ -3041,8 +3167,7 @@
     "evidence": "I级",
     "domain": "干预后效果",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "微量喂养",
@@ -3052,8 +3177,7 @@
     "evidence": "I级专家共识",
     "domain": "干预后效果",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "母乳喂养",
@@ -3064,8 +3188,7 @@
     "domain": "干预后效果",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "adult"
+    "pmid": "39739912"
   },
   {
     "head": "红霉素干预",
@@ -3075,8 +3198,7 @@
     "evidence": "II级",
     "domain": "干预后效果",
     "confidence": 0.75,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受",
@@ -3087,8 +3209,7 @@
     "domain": "干预后效果",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "39381698",
-    "population": "pediatric"
+    "pmid": "39381698"
   },
   {
     "head": "干预效果评估",
@@ -3098,8 +3219,7 @@
     "evidence": "I级专家共识",
     "domain": "干预后效果",
     "confidence": 0.95,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "干预效果评估",
@@ -3109,8 +3229,7 @@
     "evidence": "I级专家共识",
     "domain": "干预后效果",
     "confidence": 0.9,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "喂养不耐受康复",
@@ -3121,8 +3240,7 @@
     "domain": "干预后效果",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "38654189",
-    "population": "adult"
+    "pmid": "38654189"
   },
   {
     "head": "早期干预",
@@ -3133,8 +3251,7 @@
     "domain": "干预后效果",
     "confidence": 0.9,
     "update_date": "2026-05-08",
-    "pmid": "39739912",
-    "population": "adult"
+    "pmid": "39739912"
   },
   {
     "head": "综合干预方案",
@@ -3144,8 +3261,7 @@
     "evidence": "I级专家共识",
     "domain": "干预后效果",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "neonatal"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN目标热量",
@@ -3155,8 +3271,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN蛋白质目标",
@@ -3166,8 +3281,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN脂肪供能比",
@@ -3177,8 +3291,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN碳水化合物",
@@ -3188,8 +3301,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "危重患者营养",
@@ -3199,8 +3311,7 @@
     "evidence": "I级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "危重患者营养",
@@ -3210,8 +3321,7 @@
     "evidence": "I级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "间接测热法",
@@ -3221,8 +3331,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "呼吸商阈值",
@@ -3232,8 +3341,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "再喂养综合征",
@@ -3243,8 +3351,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "再喂养综合征",
@@ -3254,8 +3361,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "PN脂质乳剂",
@@ -3265,8 +3371,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "鱼油",
@@ -3276,8 +3381,7 @@
     "evidence": "I级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "精氨酸",
@@ -3287,8 +3391,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "ONS配方",
@@ -3298,8 +3401,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "管饲途径",
@@ -3309,8 +3411,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "PEG/PEJ置管",
@@ -3320,8 +3421,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN管径选择",
@@ -3331,8 +3431,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN温度",
@@ -3342,8 +3441,7 @@
     "evidence": "专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN输注方式",
@@ -3353,8 +3451,7 @@
     "evidence": "II级",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN递增方案",
@@ -3364,8 +3461,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN回抽",
@@ -3375,8 +3471,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "翻身/操作",
@@ -3386,8 +3481,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "EN冲管",
@@ -3397,8 +3491,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "药物-EN相互作用",
@@ -3408,8 +3501,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "液体平衡",
@@ -3419,8 +3511,7 @@
     "evidence": "I级专家共识",
     "domain": "营养管理",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "all"
+    "update_date": "2026-05-08"
   },
   {
     "head": "烧伤患者",
@@ -3430,8 +3521,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "创伤性脑损伤",
@@ -3441,8 +3531,7 @@
     "evidence": "II级",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "脊髓损伤",
@@ -3452,8 +3541,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "心衰患者",
@@ -3463,8 +3551,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肺移植",
@@ -3474,8 +3561,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "造血干细胞移植",
@@ -3485,8 +3571,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "COVID-19康复",
@@ -3496,8 +3581,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "神经性厌食",
@@ -3507,8 +3591,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肥胖患者",
@@ -3518,8 +3601,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "创伤患者",
@@ -3529,8 +3611,7 @@
     "evidence": "I级专家共识",
     "domain": "特殊人群",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃动素",
@@ -3540,8 +3621,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胃饥饿素",
@@ -3551,8 +3631,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胆囊收缩素",
@@ -3562,8 +3641,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "胰高血糖素样肽-1",
@@ -3573,8 +3651,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "促胃液素",
@@ -3584,8 +3661,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "5-羟色胺",
@@ -3595,8 +3671,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "迷走神经",
@@ -3606,8 +3681,7 @@
     "evidence": "I级专家共识",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠道神经系统",
@@ -3617,8 +3691,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠道菌群-脑轴",
@@ -3628,8 +3701,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "Toll样受体",
@@ -3639,8 +3711,7 @@
     "evidence": "II级",
     "domain": "生物标志物",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠屏障功能障碍",
@@ -3650,8 +3721,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠道菌群失调",
@@ -3661,8 +3731,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "小肠细菌过度生长",
@@ -3672,8 +3741,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠内营养不耐受",
@@ -3683,8 +3751,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠道通透性增加",
@@ -3694,8 +3761,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "全身炎症反应综合征",
@@ -3705,8 +3771,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "多器官功能障碍综合征",
@@ -3716,8 +3781,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "获得性衰弱",
@@ -3727,8 +3791,7 @@
     "evidence": "II级",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "谵妄",
@@ -3738,8 +3801,7 @@
     "evidence": "I级专家共识",
     "domain": "定义与诊断标准",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "FI经济负担",
@@ -3749,8 +3811,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养治疗成本效果",
@@ -3760,8 +3821,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "间接测热法",
@@ -3771,8 +3831,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "NST运行成本",
@@ -3782,8 +3841,7 @@
     "evidence": "II级",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "HEN家庭经济负担",
@@ -3793,8 +3851,7 @@
     "evidence": "I级专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "CSPEN共识",
@@ -3804,8 +3861,7 @@
     "evidence": "专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "中国重症患者",
@@ -3815,8 +3871,7 @@
     "evidence": "II级",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "中药",
@@ -3826,8 +3881,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "针灸",
@@ -3837,8 +3891,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "人参皂苷",
@@ -3848,8 +3901,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "鼻肠管置入",
@@ -3859,8 +3911,7 @@
     "evidence": "专家共识",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "经鼻盲插鼻空肠管",
@@ -3870,8 +3921,7 @@
     "evidence": "专家共识",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "床旁鼻空肠管置入",
@@ -3881,8 +3931,7 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "中国胃癌术后",
@@ -3892,8 +3941,7 @@
     "evidence": "II级",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "华西医院",
@@ -3903,8 +3951,7 @@
     "evidence": "专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "CSPEN营养筛查",
@@ -3914,8 +3961,7 @@
     "evidence": "专家共识",
     "domain": "指南推荐",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "中国县域医院",
@@ -3925,8 +3971,7 @@
     "evidence": "专家共识",
     "domain": "质量改进",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "基因多态性",
@@ -3936,8 +3981,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "肠道微生物组",
@@ -3947,8 +3991,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "代谢组学",
@@ -3958,8 +4001,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "营养基因组学",
@@ -3969,8 +4011,7 @@
     "evidence": "II级",
     "domain": "预后模型",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   },
   {
     "head": "实时能量监测",
@@ -3980,7 +4021,6 @@
     "evidence": "II级",
     "domain": "新技术",
     "confidence": 0.85,
-    "update_date": "2026-05-08",
-    "population": "adult"
+    "update_date": "2026-05-08"
   }
 ]

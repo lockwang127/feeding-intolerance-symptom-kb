@@ -1,0 +1,122 @@
+[
+  {
+    "head": "胃癌术后管饲肠内营养耐受性",
+    "relation": "最佳证据总结",
+    "tail": "EFI管理包括：喂养途径选择、喂养速率调整、腹泻管理、误吸预防",
+    "source": "中华医学杂志 胃癌患者术后管饲肠内营养耐受性管理最佳证据",
+    "evidence": "I级",
+    "domain": "肿瘤术后管理",
+    "confidence": 0.9,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后肠内营养喂养不耐受",
+    "relation": "风险因素",
+    "tail": "高龄（>65岁）、全胃切除、术中出血>200ml、术后恶心呕吐",
+    "source": "胃癌术后EFI最佳证据总结",
+    "evidence": "I级",
+    "domain": "危险因素",
+    "confidence": 0.85,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后早期经口进食",
+    "relation": "安全性与可行性",
+    "tail": "术后24-48h开始流质饮食，72h过渡到半流质，可缩短住院时间2-3天",
+    "source": "ESPEN Surgery Guideline Update 2025 / ScienceDirect 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后营养支持",
+    "relation": "推荐方案",
+    "tail": "术后24h内启动肠内营养，从10-20ml/h开始，根据耐受性逐日递增",
+    "source": "ESPEN Surgery Update 2025 / CSCO营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "全胃切除术后",
+    "relation": "喂养策略",
+    "tail": "空肠造口置管持续泵注，从10ml/h开始，术后第3天达目标量60%",
+    "source": "胃癌术后肠内营养专家共识",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后肠内营养",
+    "relation": "不耐受表现",
+    "tail": "腹胀、恶心、呕吐（>500ml/d）、腹泻（>3次/d）、胃残余量>200ml",
+    "source": "肿瘤患者肠内营养耐受不良专家共识 2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后营养不良",
+    "relation": "发生率",
+    "tail": "胃癌患者营养不良发生率高达40-60%，术后体重下降>10%占30%",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹腔镜全胃切除术后",
+    "relation": "早期经口进食",
+    "tail": "术后第1天开始清流质，第3天过渡到半流质，营养状况优于延迟进食",
+    "source": "ScienceDirect 2025 Early oral feeding gastric cancer",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌术后家庭肠内营养",
+    "relation": "最佳实践",
+    "tail": "出院后继续肠内营养2-4周，定期监测体重、白蛋白、前白蛋白",
+    "source": "PMC Home nutritional management gastric cancer 2025",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃癌根治术后",
+    "relation": "营养随访指标",
+    "tail": "体重、BMI、去脂体重、前白蛋白、转铁蛋白、握力",
+    "source": "CSCO恶性肿瘤患者营养治疗指南2024",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.9,
+    "population": "adult",
+    "pmid": "",
+    "update_date": "2026-05-08"
+  }
+]
