@@ -1,0 +1,84 @@
+[
+  {
+    "head": "ESPNIC 2022",
+    "relation": "儿童FI指南推荐为",
+    "tail": "PICUs患儿应尽早启动EN，目标为5-7天内达到100%营养目标",
+    "source": "ESPNIC 2022",
+    "evidence": "I级专家共识",
+    "domain": "指南推荐",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "population": "pediatric"
+  },
+  {
+    "head": "血常规",
+    "relation": "评估指标",
+    "tail": "WBC、CRP、降钙素原用于排除感染相关喂养不耐受",
+    "source": "Frontiers in Pediatrics 2024",
+    "evidence": "I级",
+    "domain": "评估方式",
+    "confidence": 0.85,
+    "update_date": "2026-05-08",
+    "pmid": "39381698",
+    "population": "pediatric"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "临床定义",
+    "tail": "在生后2周内不能达到全肠内营养（150ml/kg/d），伴有胃潴留、腹胀、呕吐等临床表现",
+    "source": "PMC11079181 / Frontiers in Pediatrics 2024",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08",
+    "pmid": "38654189",
+    "population": "pediatric"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "临床表现",
+    "tail": "呕吐（胃残余量>50%）、腹胀（24h腹围增加>2cm）、胃潴留（>3h）、血便",
+    "source": "ScienceDirect 2022 / Frontiers in Pediatrics 2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "update_date": "2026-05-08",
+    "pmid": "36042784",
+    "population": "pediatric"
+  },
+  {
+    "head": "喂养障碍",
+    "relation": "临床定义",
+    "tail": "与营养和能量摄入受限相关的喂养问题，不包括饥饿、食物偏好和饮食兴趣的一般性变化",
+    "source": "儿童康复临床中喂养障碍评估及管理专家共识 2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08",
+    "population": "pediatric"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "鉴别诊断",
+    "tail": "需排除坏死性小肠结肠炎（NEC）、感染、代谢性疾病",
+    "source": "NICE Guidelines / Frontiers in Pediatrics 2024",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "update_date": "2026-05-08",
+    "pmid": "39381698",
+    "population": "pediatric"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "未干预后果",
+    "tail": "延长肠外营养时间、增加中心静脉导管相关血流感染风险、影响生长发育",
+    "source": "Frontiers in Pediatrics 2024 / Nature 2025",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "update_date": "2026-05-08",
+    "pmid": "39381698",
+    "population": "pediatric"
+  }
+]

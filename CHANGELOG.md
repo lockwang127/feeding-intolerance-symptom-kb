@@ -1,5 +1,27 @@
 # CHANGELOG — Feeding Intolerance 症状知识库
 
+## [1.3.0] — 2026-05-08
+
+### 人群分类拆分
+
+- ✅ 新增 `population` 字段：adult / pediatric / neonatal / all
+- ✅ 拆分为主动知识库文件：
+  - `kb_adult.json` — 成人专用（243条）
+  - `kb_neonatal.json` — 新生儿/早产儿（46条）
+  - `kb_pediatric.json` — 儿科（7条）
+  - `kb_all.json` — 通用（64条）
+- ✅ 主文件 `kb.json` 每条记录含 population 字段
+
+### 人群分布统计
+
+| 人群 | 条数 | 说明 |
+|------|:----:|------|
+| adult | 243 | 成人专用（肿瘤、手术、重症等） |
+| all | 64 | 通用（营养管理、评估监测等） |
+| neonatal | 46 | 新生儿/早产儿（早产、NICU等） |
+| pediatric | 7 | 儿科（儿童康复等） |
+| **合计** | **360** | |
+
 ## [1.2.0] — 2026-05-08
 
 ### 2025-2026最新指南共识补充
