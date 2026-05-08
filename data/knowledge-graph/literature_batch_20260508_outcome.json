@@ -1,0 +1,134 @@
+[
+  {
+    "head": "益生菌干预",
+    "relation": "预期效果",
+    "tail": "缩短全肠内营养时间平均3-5天，减少喂养不耐受发生率30%",
+    "source": "Probiotics for Preterm Infants Update 2024 / Meta-analysis PMC8905106",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "38287582",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "益生菌干预",
+    "relation": "安全性",
+    "tail": "总体安全，未增加NEC、败血症或死亡风险",
+    "source": "Cochrane Review / Springer 2024",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.95,
+    "pmid": "38287582",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "非药物干预综合方案",
+    "relation": "预期效果",
+    "tail": "有效改善呕吐、腹胀等症状，缩短住院时间约5-7天",
+    "source": "早产儿喂养不耐受非药物干预最佳证据总结 2023",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "微量喂养",
+    "relation": "预期效果",
+    "tail": "85%病例能在干预后7日内建立耐受机制",
+    "source": "早产儿喂养不耐受临床诊疗指南",
+    "evidence": "I级专家共识",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "母乳喂养",
+    "relation": "长期效果",
+    "tail": "降低NEC发生率50%，减少迟发型败血症，改善远期神经发育",
+    "source": "Nature Scientific Reports 2025 / ESPGHAN 2024",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "红霉素干预",
+    "relation": "有效性",
+    "tail": "可改善胃排空，但长期使用存在耐药风险",
+    "source": "ESPGHAN/NICE Guidelines 2024",
+    "evidence": "II级",
+    "domain": "干预后效果",
+    "confidence": 0.75,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "未干预后果",
+    "tail": "延长肠外营养时间、增加中心静脉导管相关血流感染风险、影响生长发育",
+    "source": "Frontiers in Pediatrics 2024 / Nature 2025",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "39381698",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "干预效果评估",
+    "relation": "主要指标",
+    "tail": "达全肠内营养时间（达到150ml/kg/d）、住院天数、体重增长速率",
+    "source": "ESPGHAN/ESPEN早产儿营养指南 2024",
+    "evidence": "I级专家共识",
+    "domain": "干预后效果",
+    "confidence": 0.95,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "干预效果评估",
+    "relation": "次要指标",
+    "tail": "喂养不耐受症状缓解率、肠外营养时间、并发症发生率",
+    "source": "早产儿喂养不耐受临床诊疗指南",
+    "evidence": "I级专家共识",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受康复",
+    "relation": "判断标准",
+    "tail": "连续3天无呕吐、腹胀，胃残余量<30%前次喂养量，可耐受喂养递增",
+    "source": "FI scoring system PMC11079181 / Frontiers 2024",
+    "evidence": "I级专家共识",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "38654189",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早期干预",
+    "relation": "预后影响",
+    "tail": "早期识别并干预可减少NEC风险、缩短住院时间、降低医疗费用",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "I级",
+    "domain": "干预后效果",
+    "confidence": 0.9,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "综合干预方案",
+    "relation": "治愈率",
+    "tail": "规范综合干预后80-90%早产儿可在2-4周内建立耐受",
+    "source": "早产儿喂养不耐受临床诊疗指南",
+    "evidence": "I级专家共识",
+    "domain": "干预后效果",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  }
+]

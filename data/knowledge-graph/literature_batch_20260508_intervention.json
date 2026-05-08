@@ -1,0 +1,134 @@
+[
+  {
+    "head": "益生菌",
+    "relation": "干预喂养不耐受",
+    "tail": "鼠李糖乳杆菌LGG、双歧杆菌混合制剂可缩短达全肠内营养时间",
+    "source": "Probiotics for Preterm Infants Update 2024 / PMC8905106",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "pmid": "38287582",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "红霉素",
+    "relation": "促胃肠动力治疗",
+    "tail": "口服红霉素3-5mg/kg/d×5-7天，用于严重喂养不耐受促胃排空",
+    "source": "ESPGHAN/NICE Guidelines 2024",
+    "evidence": "II级",
+    "domain": "干预手段",
+    "confidence": 0.8,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "非营养性吸吮",
+    "relation": "干预喂养不耐受",
+    "tail": "在管饲前30分钟使用安抚奶嘴，每次10-15分钟",
+    "source": "早产儿喂养不耐受非药物干预最佳证据总结 2023",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "腹部按摩",
+    "relation": "干预喂养不耐受",
+    "tail": "顺时针腹部按摩每次5-10分钟，每日2-3次，促进肠蠕动",
+    "source": "早产儿喂养不耐受非药物干预最佳证据总结 2023",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "鸟巢式护理",
+    "relation": "干预喂养不耐受",
+    "tail": "模拟子宫环境，减少能量消耗，促进肠道发育",
+    "source": "早产儿喂养不耐受非药物干预最佳证据总结 2023",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "微量喂养",
+    "relation": "干预策略",
+    "tail": "从0.5-1ml/kg/d开始，根据耐受情况每3-5天递增15-20ml/kg",
+    "source": "ESPEN/ESPGHAN早产儿营养指南 2024",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "喂养策略",
+    "tail": "持续泵注喂养优于间歇性推注，减少胃残余量和误吸风险",
+    "source": "ESPGHAN早产儿肠内营养指南 2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "母乳",
+    "relation": "首选干预",
+    "tail": "母乳喂养儿FI发生率显著低于配方奶，可缩短达全肠内营养时间",
+    "source": "Nature Scientific Reports 2025 / Frontiers 2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.95,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "深度水解配方奶",
+    "relation": "干预指征",
+    "tail": "用于疑似牛奶蛋白过敏相关的喂养不耐受",
+    "source": "ESPGHAN/ AAP婴儿喂养不耐受指南 2024",
+    "evidence": "I级",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "胃肠道激素",
+    "relation": "潜在干预靶点",
+    "tail": "胃饥饿素、胆囊收缩素水平与早产儿胃肠成熟度相关",
+    "source": "Frontiers in Pediatrics 2024",
+    "evidence": "II级",
+    "domain": "干预手段",
+    "confidence": 0.75,
+    "pmid": "39381698",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "肠内营养添加剂",
+    "relation": "乳糖酶",
+    "tail": "对疑似乳糖不耐受患儿可尝试添加乳糖酶",
+    "source": "早产儿喂养不耐受临床诊疗指南",
+    "evidence": "II级",
+    "domain": "干预手段",
+    "confidence": 0.7,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "卧位管理",
+    "relation": "干预措施",
+    "tail": "喂养后右侧卧位30分钟，促进胃排空",
+    "source": "NICE早产儿护理指南 2024",
+    "evidence": "I级专家共识",
+    "domain": "干预手段",
+    "confidence": 0.85,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  }
+]

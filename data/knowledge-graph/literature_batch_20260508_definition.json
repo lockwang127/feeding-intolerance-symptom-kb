@@ -1,0 +1,90 @@
+[
+  {
+    "head": "喂养不耐受",
+    "relation": "临床定义",
+    "tail": "在生后2周内不能达到全肠内营养（150ml/kg/d），伴有胃潴留、腹胀、呕吐等临床表现",
+    "source": "PMC11079181 / Frontiers in Pediatrics 2024",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "pmid": "38654189",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "诊断标准",
+    "tail": "生后14天仍不能达到150ml/kg/d的完全肠内喂养",
+    "source": "Feeding intolerance scoring system PMC11079181",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "pmid": "38654189",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "临床表现",
+    "tail": "呕吐（胃残余量>50%）、腹胀（24h腹围增加>2cm）、胃潴留（>3h）、血便",
+    "source": "ScienceDirect 2022 / Frontiers in Pediatrics 2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "pmid": "36042784",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "发生率",
+    "tail": "极低出生体重儿（ELBW）中发生率高达30%-50%",
+    "source": "Nature Scientific Reports 2025",
+    "evidence": "II级",
+    "domain": "定义与诊断",
+    "confidence": 0.85,
+    "pmid": "39739912",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "主要风险因素",
+    "tail": "早产（<32周）、出生体重<1500g、围产期窒息、胃肠道发育不成熟",
+    "source": "Frontiers in Pediatrics 2024",
+    "evidence": "I级",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "pmid": "39381698",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养障碍",
+    "relation": "临床定义",
+    "tail": "与营养和能量摄入受限相关的喂养问题，不包括饥饿、食物偏好和饮食兴趣的一般性变化",
+    "source": "儿童康复临床中喂养障碍评估及管理专家共识 2023",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "早产儿喂养不耐受",
+    "relation": "专家共识定义",
+    "tail": "需达到每日递增奶量15-20ml/kg且能维持3天以上，连续2天出现喂养不耐受症状",
+    "source": "早产儿喂养不耐受临床诊疗指南",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.9,
+    "pmid": "",
+    "update_date": "2026-05-08"
+  },
+  {
+    "head": "喂养不耐受",
+    "relation": "鉴别诊断",
+    "tail": "需排除坏死性小肠结肠炎（NEC）、感染、代谢性疾病",
+    "source": "NICE Guidelines / Frontiers in Pediatrics 2024",
+    "evidence": "I级专家共识",
+    "domain": "定义与诊断",
+    "confidence": 0.95,
+    "pmid": "39381698",
+    "update_date": "2026-05-08"
+  }
+]
